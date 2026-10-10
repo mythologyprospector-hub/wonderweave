@@ -4,9 +4,13 @@ This is a universal project-seed reference for machines that provide **Organs** 
 
 Organs is infrastructure external to the project. A project does not own Organs, redefine its contracts, or copy its implementation into the project merely to obtain a shared capability.
 
+## Shared-world principle
+
+Organs is the common runtime plumbing for the owner's project world. Wonderweave should account for it when designing or building and use its published contracts when a shared runtime capability is useful. This does not require every feature to connect to an organ or prevent Wonderweave from remaining standalone. Connections are deliberate, optional, and proportionate to a real need.
+
 ## Rule
 
-**If Organs provides a capability the project needs, use the Organs capability through its published interface instead of creating a competing project-local version.**
+**When Wonderweave needs a capability Organs provides, use Organs through its published interface instead of creating a competing project-local version.**
 
 A project remains responsible for its own domain logic, domain data, architecture, and project-specific contracts.
 
