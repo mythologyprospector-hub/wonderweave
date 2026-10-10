@@ -114,12 +114,13 @@ A platform is not an exit requirement. A strong, portable mystery is.
 
 ## Immediate design work
 
-Next, create a concrete puzzle-mechanism candidate with:
-1. the final reveal written first;
-2. the exact four records;
-3. the intended solution, step by step;
-4. the hint ladder;
-5. a check for alternate solutions;
-6. a rough visual layout.
+A concrete mechanism candidate and an assembled player-facing text draft now exist in the open design PR. They are still proposals, not tested work.
 
-Do not call it playable until a cold reader can solve it without coaching.
+Next:
+1. review the station cycle for ambiguity and appropriate difficulty;
+2. ask cold readers to solve the text without coaching;
+3. record where they start, what evidence they cite, what they infer, and what remains unclear;
+4. revise the evidence layer if the shared-use interpretation is handed to them or unsupported;
+5. design the map and station cards only after the text and logic survive review.
+
+Do not call it playable or successful until cold readers can solve it without coaching and the reveal feels earned.
