@@ -37,25 +37,25 @@ Text equivalent: “Arrange the four station cards around four equally spaced po
 
 > **Station note:** River comes immediately after Bell when moving clockwise.
 >
-> **Dawn, first day:** A piece of chalk lay at the center. It had no initials or mark of ownership. I used it to mark a loose stone on the river path, then put it back where I found it.
+> **Dawn, first day:** A piece of chalk lay at the center. I used it to mark a loose stone on the river path, then put it back where I found it.
 
 **Record B — Gardener's field note**
 
 > **Station note:** Moving clockwise from Lantern brings you directly to Seed.
 >
-> **Midday, first day:** I used the chalk from the center to mark three planting rows and returned it. I left a small bundle of seed packets there for the next person who needed them.
+> **Midday, first day:** I borrowed the chalk to mark three planting rows and returned it. I left a small bundle of seed packets on the stone shelf at the center.
 
 **Record C — Ferryman's travel log**
 
 > **Station note:** Moving clockwise from Seed brings you directly to Bell.
 >
-> **Sunset, first day:** I took one seed packet from the bundle to repair a bare patch on the riverbank. I left a coil of spare cord at the center before heading home.
+> **Sunset, first day:** I took one seed packet from the bundle to repair a bare patch on the riverbank. I left a coil of spare cord on the stone shelf before heading home.
 
 **Record D — Mapmaker's annotation**
 
 > **Station note:** Moving clockwise from River brings you directly to Lantern.
 >
-> **Morning, second day:** I borrowed the cord from the center to mark a safe crossing and returned it afterward. I drew four empty sockets around the center, but no fence around the place where they meet.
+> **Morning, second day:** I used the cord to mark a safe crossing and returned it to the stone shelf. I drew four empty sockets and the paths between them, leaving the center without a label or boundary.
 
 These passages are a coherent draft, not approved final copy. The times establish a readable sequence, but playtesters must still be asked what they infer without being coached.
 
@@ -79,7 +79,7 @@ The records supply several cross-checkable details:
 - Chalk is present at the center, used by the surveyor, then borrowed and returned by the gardener.
 - Seed packets are left at the center, then one is taken for a practical use.
 - Cord is left at the center, borrowed for a practical use, then returned.
-- The chalk has no ownership mark, the mapmaker draws no fence, and no record describes asking a gatekeeper for permission.
+- The records describe objects left in one place, used by different people, and returned there; the mapmaker's drawing leaves the center without a boundary.
 
 Together, these details support a reasonable interpretation: the center functions as a shared-use place where useful things can be left and taken. The mapmaker's choice not to draw a boundary reinforces that reading.
 
