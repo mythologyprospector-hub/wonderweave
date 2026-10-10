@@ -55,7 +55,7 @@ Text equivalent: “Arrange the four station cards around four equally spaced po
 
 > **Station note:** Moving clockwise from River brings you directly to Lantern.
 >
-> **Morning, second day:** I borrowed the cord from the center to mark a safe crossing and returned it afterward. I drew the four stations and their paths on this map, but drew no fence around the place where they meet.
+> **Morning, second day:** I borrowed the cord from the center to mark a safe crossing and returned it afterward. I drew four empty sockets around the center, but no fence around the place where they meet.
 
 These passages are a coherent draft, not approved final copy. The times establish a readable sequence, but playtesters must still be asked what they infer without being coached.
 
