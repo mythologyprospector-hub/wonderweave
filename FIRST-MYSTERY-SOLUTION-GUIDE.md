@@ -26,11 +26,23 @@ Useful things are left at the center, used by different people, and returned. Wh
 
 **Limits of the evidence:** The records do not prove who owns the land, whether absolutely everyone is welcome, or what the mapmaker privately intended. The solution should explain the shared-use interpretation as a supported inference, not an established fact.
 
-## Review notes — not player-facing
+## Designer's pre-playtest audit — not player-facing
 
-- This is an assembled text draft, not a designed visual artifact or a tested game.
-- Check whether the station arrangement feels like a small discovery rather than a worksheet.
-- Check whether the shared-use interpretation is discovered from the records rather than guessed from the question.
-- Ask cold readers to cite the details that support their interpretation and to name what remains uncertain.
-- If readers only repeat a general moral about sharing, the second layer has not worked.
-- Create the final map and station-card artwork only after the text and logic survive cold-reader review.
+**Current verdict: useful baseline, not yet strong enough to advance to artwork.** This is a design judgment, not a playtest result.
+
+- **Structure:** the three station clues form a nearly direct chain. Closing the ring is a modest inference, so this layer is orientation rather than a substantial puzzle.
+- **Evidence layer:** the repeated borrowing and returning makes “shared-use place” a plausible reading, but the player prompt already points attention toward the center. The inference may be too obvious and may feel like a moral lesson attached to the station arrangement.
+- **Integration:** the two layers currently sit beside one another more than they depend on one another. The object trail can be interpreted without solving the station order, and the station order can be solved without considering the objects.
+- **Canon fit:** the draft does not yet demonstrate multiple meaningfully different ways to contribute or a sufficiently distinctive, earned reveal. Do not count accessibility options alone as different puzzle-solving routes.
+
+### Required redesign question
+
+Can the station arrangement and the object evidence become parts of **one discovery**, where solving either layer changes how the other is understood? Prefer a reveal that is specific to these records and this map, rather than a general lesson about sharing. Do not add extra clues or decorative complexity merely to make the puzzle longer.
+
+Before artwork, revise the mechanism until:
+- both layers depend on each other or clearly deepen one another;
+- the intended inference is specific, evidence-backed, and not announced by the question;
+- at least one reasonable alternative interpretation can be considered and fairly addressed;
+- a cold reader can explain what is observed, what is inferred, and why the reveal matters.
+
+Then test with cold readers. Ask them to cite evidence, not to guess the intended moral. If the design still feels like two small puzzles stapled together, replace the mechanism rather than polishing it.
