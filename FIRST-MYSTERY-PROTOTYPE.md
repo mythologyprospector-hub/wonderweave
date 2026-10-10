@@ -114,13 +114,13 @@ A platform is not an exit requirement. A strong, portable mystery is.
 
 ## Immediate design work
 
-A concrete mechanism candidate and an assembled player-facing text draft now exist in the open design PR. They are still proposals, not tested work.
+A mechanism candidate, player-facing text draft, and separate solution guide now exist in the open design PR. A designer's pre-playtest audit found that the two puzzle layers do not yet depend on one another enough to deliver the intended earned reveal. This is a design judgment, not a playtest result.
 
 Next:
-1. review the station cycle for ambiguity and appropriate difficulty;
-2. ask cold readers to solve the text without coaching;
-3. record where they start, what evidence they cite, what they infer, and what remains unclear;
-4. revise the evidence layer if the shared-use interpretation is handed to them or unsupported;
-5. design the map and station cards only after the text and logic survive review.
+1. redesign the mechanism so the station arrangement and object evidence combine into one discovery;
+2. remove prompt wording that gives away what kind of interpretation to seek;
+3. check whether the reveal is specific to the evidence, not merely a general moral;
+4. assemble a revised player-facing draft and separate solution guide;
+5. seek cold-reader review before creating final artwork.
 
-Do not call it playable or successful until cold readers can solve it without coaching and the reveal feels earned.
+Do not call it playable or successful until cold readers can solve it without coaching and the reveal feels earned. Replace the mechanism if the two layers still feel stapled together.
