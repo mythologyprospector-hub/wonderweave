@@ -12,7 +12,7 @@ The first attempt used four clockwise relationships to form a loop. This draft j
 
 ## Player-facing introduction
 
-> The mapmaker left a map with an empty center, four unmarked places around it, and four station cards. Four records were found with the map. Three records give relationships between stations; all four describe something that happened at the center. You can read them in any order.
+> The mapmaker left a map with an empty center, four unmarked places around it, and four station cards. Four records were found with the map. Three records give relationships between stations; all four contain details connected to the center. You can read them in any order.
 >
 > Arrange the stations around the ring using the records. Then look again at what happened at the center. What, if anything, can you infer from the evidence?
 
