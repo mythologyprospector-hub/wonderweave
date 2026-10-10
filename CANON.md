@@ -84,6 +84,14 @@ The exact story, puzzle count, presentation, and implementation method remain de
 - It is not assumed to require a web application, mobile application, blockchain, token economy, or any particular technology.
 - It is not considered successful merely because it is large, complicated, or technically impressive.
 
+### Content boundary: sexualized material
+
+Wonderweave is intended for a broad, general audience across ages. Sexualized fetish content and erotic roleplay are outside the project's scope and must not be introduced as game content, mechanics, community submissions, or promotional material.
+
+This is a product boundary, not a claim that such activities cannot count as play, and not a judgment about people who enjoy them. Whether an activity is playful, whether someone enjoys it, and whether Wonderweave should include it are separate questions. Enjoyment alone does not determine eligibility.
+
+Do not use a broad definition of play or fun to override this boundary. Other sensitive content categories require deliberate policy decisions rather than assumptions by analogy.
+
 ## Open design questions
 
 These are research and design work, not questions the owner must answer before progress can continue:
