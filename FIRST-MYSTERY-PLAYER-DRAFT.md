@@ -1,8 +1,12 @@
 # Wonderweave — First Mystery Player Draft
 
-**Status:** Proposed  
+**Status:** Rejected design candidate — retained for review history  
 **Governs:** Player-facing text candidate for The Unfinished Map; not approved or playtested.  
 **Last verified:** 2026-10-10
+
+## Design status
+
+This handout is **not a current player draft**. The mechanism review found that the station-order step does not add necessary understanding: the resource-sharing inference can be reached from the records without arranging the stations. Do not use this version for playtesting. See `FIRST-MYSTERY-MECHANISM-CANDIDATE.md` for the review and next design gate.
 
 ## The Unfinished Map
 
