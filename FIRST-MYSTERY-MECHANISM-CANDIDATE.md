@@ -148,3 +148,84 @@ The next work should compare a small number of genuinely different mystery cores
 Only then choose a mechanism. A map, sequence, cipher, or physical pattern is a tool, not a requirement. No candidate should advance to player-facing drafting until its core deduction and payoff can be stated plainly and withstand an adversarial review.
 
 **Current project state:** both the station-order concept and the current dry-channel version have failed to earn a player draft. No playable mystery or successful playtest is claimed.
+
+
+## Mystery-core comparison — 2026-10-10
+
+This comparison evaluates story questions before selecting a puzzle mechanism. These are design hypotheses, not tested player experiences. Scores are qualitative desk judgments, not measurements.
+
+### Candidate A — The town's unreliable sundial
+
+**Hook:** A public sundial appears to be wrong on some days. Is it damaged, badly placed, or telling a different kind of time?
+
+**Possible deduction:** Dated shadow observations and a simple site diagram show that the apparent error changes predictably with the Sun's seasonal path and the dial's orientation. Players distinguish a genuine fault from a mismatch between expectation and what the instrument measures.
+
+**Evidence burden and limits:** The observations need dates, a consistent reference time, location/orientation information, and a clear explanation of what “correct” means. Without those, several explanations remain open. Do not ask players to rely on specialist astronomy or claim more precision than the observations support.
+
+**Payoff:** A satisfying shift in perspective: the object was not necessarily wrong; the question was incomplete. This is intellectually clean, but the human/emotional stakes are modest unless the sundial has a real, well-sourced community purpose.
+
+**Participation/access:** Observation, pattern finding, drawing, and basic reasoning offer different entry points. Provide a printed data table and an explanation route that does not require being outdoors or reading a physical shadow.
+
+**Ending:** Reveal the pattern, explain its limits, and offer a tiny optional observation that lets players see the principle themselves.
+
+**Desk verdict:** Strong fair-deduction potential; currently feels more like a science activity than a memorable mystery.
+
+### Candidate B — The repaired thing with no named repairer
+
+**Hook:** A familiar public object—a little free library, community noticeboard, or shared tool cabinet—was found working again after being damaged. Several notes and dated observations disagree about who fixed it.
+
+**Possible deduction:** The evidence establishes a sequence of small, complementary contributions, while disproving the neat story that one identifiable person did everything. The mystery is not “guess the hero”; it is “what actually made the repair possible?”
+
+**Evidence burden and limits:** Each clue must establish only what its author could directly observe: a replacement part arriving, a measurement being taken, a note being left, or a repair step completed. Dates and physical compatibility must constrain the sequence. The evidence must not pretend to identify an anonymous person or infer their motives without support.
+
+**Payoff:** The reveal reframes an apparent individual achievement as a chain of useful contributions. It can model collaboration without making cooperation compulsory or treating anonymity as suspicious.
+
+**Participation/access:** Players can sort evidence, notice material details, compare timelines, or question assumptions. A solo player can solve it from the same packet; hints can progress from chronology to compatibility to the limits of attribution.
+
+**Ending:** A short, concrete account of how the object became usable again, followed by an invitation to notice the often-invisible work that makes shared things possible. No forced sharing or real-world investigation.
+
+**Desk verdict:** Best alignment with Wonderweave's human promise and collaborative design, but at risk of sentimentality or a predetermined moral if the evidence does not genuinely require the conclusion.
+
+### Candidate C — The message that seems to contradict itself
+
+**Hook:** Three short messages about the same harmless event seem mutually inconsistent. Which account is wrong?
+
+**Possible deduction:** Each message describes a different time, viewpoint, or meaning of a shared term. A small set of independent records resolves the apparent contradiction without requiring anyone to be lying.
+
+**Evidence burden and limits:** The distinctions must be inferable from clues available to every player, not from hidden author intent, cultural insider knowledge, or ambiguous wording alone. The resolution should not depend on declaring one narrator unreliable without evidence.
+
+**Payoff:** Players discover that disagreement can result from incomplete perspectives rather than deception. This can be a strong lesson in interpretation, but the concept risks feeling like a familiar lateral-thinking riddle.
+
+**Participation/access:** Reading, timeline building, and comparing interpretations can all contribute. Use short plain-language texts and a non-reading-heavy alternate representation; a solo route and graduated hints are feasible.
+
+**Ending:** Reconstruct the event from the distinct viewpoints and state exactly which uncertainties remain.
+
+**Desk verdict:** Flexible and accessible in principle, but the premise is generic until anchored to a distinctive, concrete event.
+
+### Comparative decision
+
+| Criterion | A: Sundial | B: Shared repair | C: Conflicting messages |
+|---|---|---|---|
+| Immediate curiosity | Strong | Strong | Strong |
+| Fair, bounded deduction | Strong if observations are rigorous | Promising; needs evidence architecture | Promising; wording must not do all the work |
+| Human-relevant payoff | Moderate | Strongest potential | Moderate |
+| Different contribution paths | Good | Good | Good |
+| Solo finish and hints | Feasible | Feasible | Feasible |
+| Main design risk | Becomes a lesson, not a mystery | Moral arrives before evidence; attribution overreach | Becomes a generic lateral-thinking riddle |
+
+**Provisional choice: Candidate B — The repaired thing with no named repairer.** It has the strongest potential to make the deduction matter beyond solving a mechanism and directly embodies the game's promise that different kinds of contribution can combine. This is a choice for the *next design test*, not approval of the story or its conclusion.
+
+### Adversarial gate before any player draft
+
+Candidate B advances only to a mechanism/evidence outline. It must answer all of these without relying on a moral speech:
+
+1. What exactly was damaged, and what observable evidence proves the final repair worked?
+2. What are the distinct contributions, and what independent evidence dates or constrains each one?
+3. Which tempting single-person explanation is contradicted by evidence, rather than merely being less appealing?
+4. Could the same clues support a materially different sequence or conclusion? If so, either add fair discriminating evidence or narrow the claimed answer.
+5. Can the reveal be stated as a factual reconstruction first, with its human meaning left for players to recognize?
+6. Can the entire mystery be played safely from supplied materials, without contacting strangers, visiting a site, or identifying real people?
+
+If those questions cannot be answered with a compact, non-contrived evidence set, reject Candidate B and return to the comparison rather than decorating it.
+
+**Current status:** no core has been player-tested. Candidate B is the next concept to test on paper, not a selected playable mystery. The Unfinished Map and Dry Channel remain rejected as first-mystery candidates.
