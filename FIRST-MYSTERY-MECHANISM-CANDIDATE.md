@@ -89,3 +89,31 @@ This candidate must be abandoned or redesigned unless a concrete set of slips pa
 
 **Current status:** promising structure, but not yet proven coherent. No player-facing text should be written from this sketch until the slips and state transitions have been worked through exhaustively.
 
+### Concrete state-transition test — candidate only
+
+To keep the next step falsifiable, here is a small test set. It is not yet player-facing copy or proof of a good mystery.
+
+**Map:** A full cistern feeds an upstream gauge, then the normal inlet gate, then the main channel. A bypass can carry water around the normal inlet gate. The main channel feeds branch gates A, B, and C; each branch has a simple wet/dry gauge.
+
+Each slip records the state before an action and the state after it. The slips are shuffled and have no time labels.
+
+| Slip | Before | Action | After |
+|---|---|---|---|
+| K | Cistern full; upstream gauge dry; main and all branch gauges dry | Open the cistern outlet | Upstream gauge wet; main and all branch gauges dry |
+| M | Upstream gauge wet; main and all branch gauges dry | Open the bypass around the normal inlet gate | Upstream and main gauges wet; all branch gauges dry |
+| P | Upstream and main gauges wet; all branch gauges dry | Open branch gates A and B | A and B gauges wet; C remains dry |
+| R | Upstream and main gauges wet; A and B gauges wet; C dry | Open branch gate C | All three branch gauges wet |
+
+**State-match result:** K must precede M; M must precede P; P must precede R. Each slip's resulting state is the next slip's starting state, so the only complete chain is **K → M → P → R**.
+
+**What this does and does not establish:**
+
+- The sequence reconstructs a controlled test: source flow appeared upstream, the main channel only became wet after the bypass was opened, and the three branches became wet only after their branch gates were opened.
+- The normal inlet route failed to transmit water during this test. The records do **not** distinguish a closed normal gate from a physical obstruction there.
+- The branch gates were closed before they were opened in the test. The records do not establish who closed them or why.
+- The map alone shows connectivity. The four slips in an arbitrary reading order are a set of before/after states; matching those states reconstructs the causal sequence. Reading the reconstructed chain makes the progression and the limits of the diagnosis legible.
+
+**Adversarial caveat:** the chain is currently unique largely because each slip's before/after gauge pattern is designed to match exactly. That may be fair, but it may also feel like a worksheet rather than a mystery. We still need to test whether players understand why the sequence matters, whether the gate language is accessible, and whether the payoff feels meaningful. If exact state matching is too mechanical, do not disguise it with story.
+
+**Next gate:** independently check every state transition and the unique ordering; then draft a plain-language reveal that states the strongest supported diagnosis and explicitly preserves the unresolved closed-gate-versus-obstruction distinction. Only after that should a player handout be drafted.
+
