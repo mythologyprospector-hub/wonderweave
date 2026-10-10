@@ -8,19 +8,19 @@
 
 Can four small records, each understandable on its own, combine into a satisfying discovery without specialist knowledge, external searching, or a mandatory starting point?
 
-This candidate tests a **four-part route loop**. It is a logic skeleton, not a finished mystery. The distinction matters: a solvable arrangement is not automatically an engaging experience.
+The first attempt used four clockwise relationships to form a loop. That is logically sound but too simple by itself, and it does not explain the blank center. This revision defines the missing second discovery as a **convergence test** rather than asking players to guess a symbolic word.
 
 ## Intended reveal
 
-The mapmaker did not forget to draw a destination in the center. The four outer stations form a complete loop around an intentionally unmarked shared space.
+The mapmaker did not leave a missing landmark in the center. The four records describe different journeys from the outer stations, and their evidence shows that the journeys converge on the same unmarked place.
 
-The player can prove the loop from the records. The player is **not** required to guess a password or recover the one word the designer secretly prefers for the center. The closing explanation invites the player to name what a shared, unclaimed place could be for. “Meeting place” is one possible reading, not a uniquely deduced answer.
+The objectively checkable result is: **the four routes meet at the center**. Calling that place a meeting point is supported by the route evidence. What the place means to the player remains open; no secret word like MEET is required.
 
-This is a deliberate change from the earlier proposed word **MEET**: the records do not yet justify one exact word, so presenting it as the objectively correct answer would be unfair.
+This is a stronger design hypothesis than the earlier imposed-word reveal, but the exact route diagrams and records still need to be built and checked. This file does not claim the puzzle is playable.
 
 ## Player-facing setup
 
-> The mapmaker's map has four outer stations and an empty center. Four records were found among the mapmaker's papers. Each records one true connection between stations. You can read the records in any order. Find the complete route, then decide what the map's unmarked center might be for.
+> The mapmaker's map has four named stations and an empty center. Four records were found among the mapmaker's papers. Each preserves part of a journey. You can inspect the records in any order. Work out where the journeys lead, and why the mapmaker left that place unnamed.
 
 The four stations use distinct names and redundant marks:
 - **LANTERN** — lamp mark
@@ -28,78 +28,80 @@ The four stations use distinct names and redundant marks:
 - **SEED** — seed mark
 - **BELL** — bell mark
 
-The marks are not color-coded clues. Each mark has a plain-language text label.
+The marks are not color-coded clues. Each has a plain-language label.
 
-## Four records — exact logical content
+## Proposed structure of the four records
 
-The first draft uses four different presentation forms to avoid four identical sentences. These are the required facts each form must communicate; the final visual and text-equivalent versions are not yet designed.
+The records should have different accessible forms, but each must contribute evidence to the same convergence question.
 
-**Record A — Surveyor's sketch**
+**Record A — Surveyor's sketch:** a small, labeled route diagram beginning at Lantern. It shows turns and landmarks, but the last destination is left unnamed.
 
-A route sketch shows the River station followed directly by the Lantern station when travelling clockwise.
+**Record B — Gardener's field note:** a plain-language sequence of turns beginning at Seed. The sequence can be followed on the same simplified map.
 
-**Record B — Gardener's observation**
+**Record C — Ferryman's travel log:** a compact sequence of directional steps beginning at River, with a matching text description for any visual marks.
 
-> Leaving Lantern and taking the next station clockwise brings you to Seed.
+**Record D — Mapmaker's annotation:** a final route from Bell, described with ordinary words and a small diagram.
 
-**Record C — Ferryman's travel note**
+**Crucial constraint:** these are not four unrelated mazes. Each route must be independently traceable using only the map and its own record, and all four must terminate at the same central location. The center is not labeled as a destination in advance; players establish the convergence by tracing the evidence.
 
-> From Seed, the next station clockwise is Bell.
+This is a specification for the next draft, not yet the exact player-facing clue set. The route paths, turns, and map geometry must be written down and checked together before the puzzle can be called complete.
 
-**Record D — Mapmaker's annotation**
+## Intended solution and proof obligations
 
-> The River station comes immediately after Bell when travelling clockwise.
+1. Identify the labeled starting station for each record.
+2. Follow each record's sequence on the map, without inventing missing turns.
+3. Mark the endpoint of each route.
+4. Compare all four endpoints.
+5. Confirm that all four routes terminate in the same central area.
+6. Conclude that the blank center is an intentional shared destination, not simply a missing label.
 
-A small orientation diagram must explain clockwise in an accessible way. Do not assume every player already knows the term.
+The solution guide must include a route-by-route trace table showing every turn and endpoint. A reviewer should be able to reproduce the result without relying on the author's interpretation.
 
-The records differ in form, but not in the kind of reasoning demanded: each supplies one local link. That is currently a weakness, not a finished design choice. The final version should preserve equivalent information in text and visuals, and should not add confusing variation just for decoration.
+## Design risks to resolve
 
-## Intended solution
+- **Too easy:** Four straight lines aimed at the center would make the answer obvious and uninteresting. The paths should require careful but modest tracing, not obscure decoding.
+- **Too hard:** If players must guess the map's scale, infer arbitrary symbols, or learn a private rule, the puzzle is unfair.
+- **False convergence:** Routes must demonstrably terminate at the same defined area. Near misses or visually approximate intersections are not enough.
+- **Multiple endpoints:** If a route has more than one reasonable reading, revise the record.
+- **Unjustified emotion:** The paths can prove a shared destination; they cannot prove a specific sentimental backstory. Keep the closing interpretation proportionate to the evidence.
+- **Overlong experience:** This mechanism may still be too short for the original 15–30 minute target. Do not pad it. Let cold-reader results determine whether it needs another meaningful layer or a shorter target session.
 
-1. Record A establishes River → Lantern.
-2. Record B establishes Lantern → Seed.
-3. Record C establishes Seed → Bell.
-4. Record D establishes Bell → River.
-5. Joining the links gives River → Lantern → Seed → Bell → River.
-6. All four links close one loop around the center. Removing any one link leaves the chain open.
-7. The arrangement is unique up to rotation. No clue establishes a north-facing orientation, so the finished map must not imply one.
+## Accessibility requirements
 
-The objectively checkable answer is the loop. The center's possible purpose is a reflective ending, not a hidden single-word test.
-
-## Honest assessment
-
-This mechanism is fair but too easy to carry a 15–30 minute mystery. It is useful as a baseline and as a test of whether the presentation is understandable; it is not ready to be shipped.
-
-The next design pass must add a second, evidence-based discovery without adding arbitrary ciphering or specialist knowledge. The strongest candidate is to make the records reveal **why the center was left unmarked**, with that conclusion supported by at least two independent details across the records. Until that evidence exists, the emotional reveal remains provisional.
-
-Do not inflate difficulty with meaningless steps, invented symbol substitutions, or obscure references. If a better mechanism makes the center's meaning naturally deducible, replace this one.
+- Every route diagram has a complete text equivalent.
+- Direction symbols are explained and are not conveyed by color alone.
+- Route steps use a consistent, demonstrated vocabulary.
+- The map has legible labels and no essential tiny details.
+- Players can trace on paper, point, or talk through a route; no timed interaction is required.
+- No external search, specialist geography, mythology, or cultural knowledge is required.
 
 ## Hint ladder
 
-1. **Gentle nudge:** Each record tells you something about which station follows another.
-2. **More direct:** Draw four places around a center and add each clockwise connection.
-3. **Nearly there:** Start at River: the route continues to Lantern, Seed, Bell, then back to River.
+1. **Gentle nudge:** Each record describes a journey that begins at one of the four stations.
+2. **More direct:** Trace each journey separately and mark where it ends.
+3. **Nearly there:** Compare the four endpoints; check whether they occupy the same central place.
 
-Hints must be available without penalty and must not introduce new information.
+Hints may clarify the task but must not add a new rule.
 
 ## Alternate-solution and fairness review
 
-- **Starting point:** Any record can be read first.
-- **Rotation:** Four rotations are equivalent; the evidence does not establish north.
-- **Direction:** The layout must demonstrate clockwise in words and with a non-color-dependent diagram.
-- **Premature solve:** One record gives one connection, not the complete loop.
-- **All-clue check:** All four links are required to verify closure.
-- **Cultural assumptions:** No mythology, religious knowledge, local geography, or trivia is required.
-- **Accessibility:** Text and visual forms must carry equivalent information; color, sound, and tiny details cannot be essential.
-- **Interpretation:** “Meeting place” is an invitation to reflect, not a uniquely proven answer. The game must not mark a player's own thoughtful interpretation wrong.
-- **Main unresolved problem:** The mechanism currently proves a loop but does not yet prove why the center was intentionally blank. The second discovery is still missing.
+Before acceptance, verify:
+- all four records can be attempted in any order;
+- each route has one traceable interpretation;
+- all routes converge by the stated rules;
+- no route depends on a hidden scale or unstated orientation;
+- removing any record leaves one station's journey unverified;
+- a cold reader can distinguish the map's evidence from decorative art;
+- the route result supports the reveal without demanding one exact emotional interpretation.
 
 ## Decision gate
 
 Keep this as a candidate only. Do not call it playable, canon, or a production specification until:
-1. the reason for the blank center is supported by fair evidence, or the ending is explicitly reframed as an open invitation;
-2. each record has a distinct but accessible presentation and a matching text equivalent;
-3. the complete player-facing experience exists;
-4. a cold reader can solve the logic without coaching;
-5. a reviewer records plausible alternate readings;
-6. the solution guide and hint ladder match the player-facing materials exactly.
+1. the map geometry and exact four route records exist;
+2. a route-by-route trace table proves convergence;
+3. text equivalents match the visual clues exactly;
+4. a cold reader can solve it without coaching;
+5. a reviewer tests alternate readings and records the result;
+6. the ending says no more than the clues establish.
+
+If the convergence version proves visually awkward or too trivial, discard it rather than defending it out of attachment to the concept.
