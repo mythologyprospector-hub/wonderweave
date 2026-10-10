@@ -6,7 +6,7 @@
 
 ## The Unfinished Map
 
-The mapmaker left a map with an empty center, four unmarked places around it, and four station cards. Three of the records describe relationships between stations. All four tell something that happened at the center.
+The mapmaker left a map with an empty center, four unmarked places around it, and four station cards. Three of the records describe relationships between stations. All four contain details connected to the center.
 
 You can read the records in any order.
 
