@@ -37,6 +37,17 @@ The goal is not merely to answer ideas or produce impressive plans. It is to dis
 
 At arrival, read this file and `DOCS.md`; read `HUMAN.md` and `MACHINE.md` for the owner interaction contract and machine constants; read `ORGANS.md` before planning any Organs integration. Then inspect the target repository's own canon and actual state. Retrieve additional context only when relevant to the task.
 
+## Wider-world awareness — standing obligation
+
+Do not treat Wonderweave as the whole system. Before meaningful design or architecture decisions, inspect relevant repositories in the owner's GitHub landscape, including their canon, actual implementations, capabilities, contracts, and limitations. Use the world-level map as an entry point and follow relevant relationships. Repository state, not conversation memory or assumptions, establishes what currently exists.
+
+Consider other repositories as available capabilities and possible collaborators, not mandatory dependencies. Look for useful existing work, complementary capabilities, duplication, and opportunities that might emerge from combining projects. Then choose deliberately: reuse, connect through an explicit contract, keep independent, or propose a larger change when justified. Independence does not mean isolation; availability does not require integration. Do not manufacture bridges just to connect things, and do not make Wonderweave hostage to optional infrastructure.
+
+**Organs is the shared runtime plumbing for this world.** Account for it when designing and building, and use its actual published contracts where shared runtime capabilities help. This does not mean every game feature needs to call an organ, or that Wonderweave cannot remain standalone in its player-facing experience. Do not duplicate a shared capability without reason or invent an integration before there is a real need.
+
+Read broadly, but respect repository sovereignty: do not change another repository or create a cross-repository dependency without the authorization required for that consequential change. Record meaningful relationships in the appropriate project documents.
+
+
 ## 2. Permanent division of labor
 
 ### Human — Owner / Gate
