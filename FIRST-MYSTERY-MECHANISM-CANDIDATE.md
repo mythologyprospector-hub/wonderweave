@@ -229,3 +229,50 @@ Candidate B advances only to a mechanism/evidence outline. It must answer all of
 If those questions cannot be answered with a compact, non-contrived evidence set, reject Candidate B and return to the comparison rather than decorating it.
 
 **Current status:** no core has been player-tested. Candidate B is the next concept to test on paper, not a selected playable mystery. The Unfinished Map and Dry Channel remain rejected as first-mystery candidates.
+
+
+## Candidate B pressure test — evidence outline — 2026-10-10
+
+**Purpose:** Try to break the shared-repair concept before writing player-facing copy. This is a fictional design test, not a playable draft.
+
+### Proposed incident
+
+A small, fictional neighborhood book-exchange cabinet was found dry inside after heavy rain, despite a report that its door had been hanging crooked and leaking the day before. The mystery question is deliberately narrow:
+
+**What combination of changes made the cabinet weatherproof again, and what can the surviving notes actually tell us about how the repair happened?**
+
+This is not a “who was the anonymous hero?” mystery. The supplied evidence cannot identify people, and the game should not invite players to do so.
+
+### Minimal proposed evidence set
+
+1. **Before note, 09:10:** “Door drops toward the latch. Upper edge touches the frame; lower latch-side corner leaves a visible gap. Water reached the bottom shelf during yesterday's rain.” A simple diagram marks the gap.
+2. **Fit note, 10:00:** “A thin spacer under the lower hinge brings the latch edge level. Door now closes evenly, but a strip of paper placed across the lower edge pulls out without resistance.” The note includes before/after measurements and a diagram.
+3. **Material tag, 10:20:** “Offcut used as hinge spacer: 6 mm dry hardwood, trimmed to the measured gap.” The tag establishes the material and dimension, not who supplied or installed it.
+4. **Seal note, 11:00:** “Old lower seal is split. Replacement seal fitted after hinge alignment. Paper strip now grips continuously along the lower edge.”
+5. **Test note, 11:30:** “Water poured gently over the closed door from outside; no water reached the inside shelf. Latch opened and closed three times without binding.” The note records a bounded test, not proof that the cabinet will resist every storm forever.
+
+These are proposed fictional records. Their times and measurements are design inputs, not external facts.
+
+### Intended reconstruction
+
+The crooked door and failed lower seal are two distinct problems. Aligning the door with a spacer corrects the geometry but does not make the lower edge watertight; replacing the split seal after alignment closes the remaining path. The final controlled test supports the claim that the cabinet passed that test after both changes.
+
+The reveal is therefore not “a mysterious person fixed it.” It is that **the repair required two different corrections, and the first successful-looking change was not enough**. The object became usable through diagnosis, a fitted material, sealing, and a test.
+
+### Adversarial audit
+
+- **Does the evidence support the conclusion?** Mostly, if the diagrams and measurements are internally consistent. The paper-strip observations distinguish alignment from sealing; the final water test supports only the tested condition.
+- **Does it prove multiple people contributed?** No. Multiple notes are not proof of multiple authors. Do not make that claim.
+- **Does it prove why the earlier leak occurred?** It supports two plausible contributing defects, but the fictional “yesterday's rain” report must be a trustworthy direct observation. Otherwise the original incident is only background.
+- **Can a different explanation fit?** Yes: another unrecorded change might have helped, and a single person could have completed all steps. The mystery must concern the documented repair logic, not authorship or credit.
+- **Is the ordering mechanic necessary?** The dependencies matter—alignment precedes meaningful seal fitting and testing—but explicit times make the order too easy. If chronology is the puzzle, the evidence must constrain sequence without simply printing timestamps; however, removing timestamps must not make the result ambiguous or contrived.
+- **Is the payoff emotionally meaningful?** The current version illustrates layered troubleshooting but still risks feeling like a maintenance worksheet. Its human meaning—care for a shared resource—is inferred from context rather than earned by a surprising deduction.
+- **Is it accessible and safe?** Yes in principle: all clues can be supplied on paper, with a diagram and text descriptions; no real cabinet, tools, stranger contact, or outdoor activity is required. A solo player can complete it.
+
+### Disposition
+
+**Candidate B does not yet pass the first-mystery bar.** The technical reconstruction is plausible, but the central insight is predictable and the evidence does not establish the stronger “many hands” story that made the concept attractive. Removing timestamps to create a puzzle would risk artificial obscurity; adding more notes would likely inflate the packet without improving the payoff.
+
+Do not draft player-facing materials from this outline. Keep it as a useful adversarial test and reconsider the core question. The next concept must make the evidence reveal something genuinely unexpected about the shared object or its history—not merely the correct order of sensible repairs. A meaningful human implication must follow from the evidence, not be pasted on afterward.
+
+**Current status:** the shared-repair concept is not selected. No player draft, playtest, or success claim is authorized.
