@@ -1,59 +1,37 @@
-# Universal Project Seed
+# Wonderweave
 
-This directory contains the portable operating constitution for projects built with Jimmy and the assistant.
+*A world-spanning game of discovery, made with care.*
 
-The seed is intentionally **not** a project architecture.
+Wonderweave is an ambitious, open-ended game where people follow curiosity through puzzles, science, history, culture, nature, language, art, logic, and one another. Different people can enter through different doors, solve different parts, and still contribute to a shared unfolding mystery.
 
-It carries the stable relationship, workflow, communication, truth, verification, and machine conventions that should survive from one repository to the next.
+The ambition is not to make the hardest cipher. It is to make a game so thoughtfully designed, beautifully crafted, surprising, and humane that people of very different ages, abilities, cultures, and interests can find a meaningful way in.
 
-## Installation
+## The idea
 
-Copy the contents of this seed into a new repository.
+- **Many doors, one woven world.** Players can approach discovery through different interests, skills, and ways of thinking.
+- **Depth without exclusion.** Challenges can range from playful noticing and simple pattern-finding to demanding, multi-step investigations.
+- **Discovery over gatekeeping.** Knowledge can be learned along the way; players should not need money, credentials, or specialist equipment to belong.
+- **Cooperation matters.** Different perspectives and complementary skills should make the shared experience richer.
+- **Craft is part of the game.** Every clue, interaction, visual, sound, explanation, and reveal should earn its place.
+- **Reality deserves respect.** Real-world research should distinguish evidence from interpretation and never require trespass, danger, harassment, or invasion of privacy.
 
-Install the complete seed bundle:
+## Where we begin
 
-```text
-AGENTS.md
-DOCS.md
-HUMAN.md
-MACHINE.md
-ORGANS.md
-README.md
-```
+We will not pretend to have built a boundless world before we have made one excellent piece of it. The first milestone is to design and test a small, complete mystery that demonstrates the experience: multiple ways in, satisfying discoveries, fair clues, a memorable reveal, and room for different kinds of players to contribute.
 
-`AGENTS.md` is the entry-point operating constitution, but it relies on the supporting references. The complete bundle preserves the owner's working relationship and Genie Principle (`HUMAN.md`), machine constants (`MACHINE.md`), documentation rules (`DOCS.md`), and Organs integration contract (`ORGANS.md`). Do not install only `AGENTS.md` and assume the full operating model is present.
+The first mystery is a proof of craft, not a limit on the eventual game.
 
-## What does not belong here
+## Project status
 
-Do not put these in the universal seed:
+Wonderweave is in its design and foundation stage. The vision and initial roadmap are proposals awaiting owner review; no playable game or production platform is claimed to exist yet.
 
-- project-specific architecture;
-- project-specific roadmap;
-- project-specific APIs;
-- project-specific canon;
-- project-specific tests;
-- current project status;
-- temporary decisions;
-- repository-specific dependencies.
+- [Proposed game canon](CANON.md)
+- [Proposed roadmap](ROADMAP.md)
+- [Operating constitution](AGENTS.md)
+- [Documentation standard](DOCS.md)
 
-Those belong to the project itself.
+## Principles
 
-## The intended bootstrap
+Wonderweave should be playful, curious, generous, and rigorous. It should welcome wonder without demanding belief, reward cleverness without humiliating beginners, and grow through contributions without surrendering quality or safety.
 
-```text
-New repository
-    ↓
-Install Project Seed
-    ↓
-Point assistant at repository
-    ↓
-Human: "We're building ______."
-    ↓
-Assistant inspects repository
-    ↓
-Assistant establishes / discovers project canon
-    ↓
-Assistant drives the work
-```
-
-The Seed should make the relationship work without requiring the human to re-explain it.
+If it stops being fun, we have more designing to do.
