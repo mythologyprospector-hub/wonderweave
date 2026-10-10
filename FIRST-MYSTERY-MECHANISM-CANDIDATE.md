@@ -6,99 +6,100 @@
 
 ## Design question
 
-Can four small, independently approachable records combine into one satisfying discovery without specialist knowledge, external searching, or a single mandatory starting point?
+Can four small records, each understandable on its own, combine into a satisfying discovery without specialist knowledge, external searching, or a mandatory starting point?
 
-This candidate tests a **four-part route rule**. It is deliberately plain enough to audit before visual design adds atmosphere.
+This candidate tests a **four-part route loop**. It is a logic skeleton, not a finished mystery. The distinction matters: a solvable arrangement is not automatically an engaging experience.
 
 ## Intended reveal
 
-The mapmaker did not leave four directions to four destinations. The records describe four pieces of one route. Put the pieces in the only order that satisfies all four records, and the route closes into a loop around the blank center. The center is marked **MEET**: the blank was not a missing landmark but a place reserved for people arriving from different paths.
+The mapmaker did not forget to draw a destination in the center. The four outer stations form a complete loop around an intentionally unmarked shared space.
 
-This meaning is a design hypothesis, not a claim that the current clues already earn the emotional reveal. Playtesting must determine whether the idea feels discovered rather than merely explained.
+The player can prove the loop from the records. The player is **not** required to guess a password or recover the one word the designer secretly prefers for the center. The closing explanation invites the player to name what a shared, unclaimed place could be for. “Meeting place” is one possible reading, not a uniquely deduced answer.
+
+This is a deliberate change from the earlier proposed word **MEET**: the records do not yet justify one exact word, so presenting it as the objectively correct answer would be unfair.
 
 ## Player-facing setup
 
-> The mapmaker's map has four outer stations and an empty center. Four notes were found in different drawers. Each note tells you something true about how the stations connect. The notes can be read in any order. Use all four to arrange the stations around the center, then find what belongs in the blank.
+> The mapmaker's map has four outer stations and an empty center. Four records were found among the mapmaker's papers. Each records one true connection between stations. You can read the records in any order. Find the complete route, then decide what the map's unmarked center might be for.
 
-The four stations are identified by simple, distinct marks and words:
-- **LANTERN** — a lamp icon
-- **RIVER** — a wave icon
-- **SEED** — a seed icon
-- **BELL** — a bell icon
+The four stations use distinct names and redundant marks:
+- **LANTERN** — lamp mark
+- **RIVER** — wave mark
+- **SEED** — seed mark
+- **BELL** — bell mark
 
-The icons are decorative redundancy, not the only way to identify a station.
+The marks are not color-coded clues. Each mark has a plain-language text label.
 
-## The four records — candidate wording
+## Four records — exact logical content
 
-**Record A — The Surveyor's Note**
+The first draft uses four different presentation forms to avoid four identical sentences. These are the required facts each form must communicate; the final visual and text-equivalent versions are not yet designed.
 
-> The Lantern station is immediately clockwise from the River station.
+**Record A — Surveyor's sketch**
 
-**Record B — The Gardener's Note**
+A route sketch shows the River station followed directly by the Lantern station when travelling clockwise.
 
-> The Seed station is immediately clockwise from the Lantern station.
+**Record B — Gardener's observation**
 
-**Record C — The Ferryman's Note**
+> Leaving Lantern and taking the next station clockwise brings you to Seed.
 
-> The Bell station is immediately clockwise from the Seed station.
+**Record C — Ferryman's travel note**
 
-**Record D — The Mapmaker's Note**
+> From Seed, the next station clockwise is Bell.
 
-> The River station is immediately clockwise from the Bell station.
+**Record D — Mapmaker's annotation**
 
-Each note is a local relationship. No note needs to be solved before another; players can begin anywhere and add each relationship to a shared sketch.
+> The River station comes immediately after Bell when travelling clockwise.
+
+A small orientation diagram must explain clockwise in an accessible way. Do not assume every player already knows the term.
+
+The records differ in form, but not in the kind of reasoning demanded: each supplies one local link. That is currently a weakness, not a finished design choice. The final version should preserve equivalent information in text and visuals, and should not add confusing variation just for decoration.
 
 ## Intended solution
 
-Read “immediately clockwise from” as the next station when moving clockwise around the four positions.
+1. Record A establishes River → Lantern.
+2. Record B establishes Lantern → Seed.
+3. Record C establishes Seed → Bell.
+4. Record D establishes Bell → River.
+5. Joining the links gives River → Lantern → Seed → Bell → River.
+6. All four links close one loop around the center. Removing any one link leaves the chain open.
+7. The arrangement is unique up to rotation. No clue establishes a north-facing orientation, so the finished map must not imply one.
 
-1. Record A gives River → Lantern.
-2. Record B gives Lantern → Seed.
-3. Record C gives Seed → Bell.
-4. Record D gives Bell → River.
-5. Join the relationships: River → Lantern → Seed → Bell → River.
-6. The four relationships make one closed loop. All four records are needed to confirm that the route returns to its start.
-7. The four stations surround the blank center. The proposed reveal labels that shared center **MEET**.
+The objectively checkable answer is the loop. The center's possible purpose is a reflective ending, not a hidden single-word test.
 
-The order is unique up to rotation. That is appropriate if the player is arranging stations around a center without a fixed north marker. If the visual map marks north or gives the stations fixed compass positions, the final layout must be adjusted so it does not accidentally imply a unique orientation the clues do not establish.
+## Honest assessment
 
-## Important honesty check
+This mechanism is fair but too easy to carry a 15–30 minute mystery. It is useful as a baseline and as a test of whether the presentation is understandable; it is not ready to be shipped.
 
-As written, this is a **starter mechanism, not yet a strong finished mystery**. The four statements are too direct to support a 15–30 minute experience by themselves, and the proposed word MEET may feel imposed rather than inferred. This candidate is useful because it exposes the structural requirements early, not because it should be shipped unchanged.
+The next design pass must add a second, evidence-based discovery without adding arbitrary ciphering or specialist knowledge. The strongest candidate is to make the records reveal **why the center was left unmarked**, with that conclusion supported by at least two independent details across the records. Until that evidence exists, the emotional reveal remains provisional.
 
-Before acceptance, the next draft should improve the discovery without making it obscure:
-- preserve the same verifiable route relationships;
-- let each record communicate its relationship through a different but accessible form (for example, a short route sketch, a plain-language observation, a sequence of marked steps, and a small mapmaker's annotation);
-- ensure each form has a clear text equivalent;
-- add one fair, shared feature that lets players infer why the center was intentionally left blank;
-- make the ending's meaning follow from evidence in the records, not from a surprise sentence that tells players what to feel.
-
-Do not add fake ciphering, arbitrary symbol substitutions, or extra steps solely to increase difficulty.
+Do not inflate difficulty with meaningless steps, invented symbol substitutions, or obscure references. If a better mechanism makes the center's meaning naturally deducible, replace this one.
 
 ## Hint ladder
 
-1. **Gentle nudge:** Each note describes a relationship between two named stations.
-2. **More direct:** Draw four spaces around a center and connect the two stations named in each note in the stated direction.
-3. **Nearly there:** Start at River, then move clockwise to Lantern, Seed, Bell, and back to River.
+1. **Gentle nudge:** Each record tells you something about which station follows another.
+2. **More direct:** Draw four places around a center and add each clockwise connection.
+3. **Nearly there:** Start at River: the route continues to Lantern, Seed, Bell, then back to River.
 
-Hints must be available without penalty.
+Hints must be available without penalty and must not introduce new information.
 
 ## Alternate-solution and fairness review
 
 - **Starting point:** Any record can be read first.
-- **Rotation:** Four rotations describe the same loop. The puzzle must ask for the loop around a center, not a compass-specific orientation.
-- **Direction meaning:** “Clockwise” must be demonstrated in the layout or explained in plain language; never assume a player knows the term.
-- **Premature solve:** Each record alone yields only one link, not the complete loop.
-- **Redundancy:** The loop uses all four links; removing any one leaves an open chain.
-- **Cultural assumptions:** No mythology, religious knowledge, local geography, or cultural trivia is required.
-- **Accessibility:** Text, symbols, and a written route description carry the same information; color is never essential.
-- **Current weakness:** The solution to the route is fair but simple. The emotional interpretation of the blank center is not yet sufficiently supported by the evidence. This is an explicit unresolved design problem.
+- **Rotation:** Four rotations are equivalent; the evidence does not establish north.
+- **Direction:** The layout must demonstrate clockwise in words and with a non-color-dependent diagram.
+- **Premature solve:** One record gives one connection, not the complete loop.
+- **All-clue check:** All four links are required to verify closure.
+- **Cultural assumptions:** No mythology, religious knowledge, local geography, or trivia is required.
+- **Accessibility:** Text and visual forms must carry equivalent information; color, sound, and tiny details cannot be essential.
+- **Interpretation:** “Meeting place” is an invitation to reflect, not a uniquely proven answer. The game must not mark a player's own thoughtful interpretation wrong.
+- **Main unresolved problem:** The mechanism currently proves a loop but does not yet prove why the center was intentionally blank. The second discovery is still missing.
 
 ## Decision gate
 
-Keep this as a candidate only. Do not call it playable, merge it as canon, or build a platform around it until:
-1. the center's meaning is supported by clues;
-2. the four records have distinct, accessible presentation;
-3. a cold reader can solve it without coaching;
-4. a reviewer tries alternate readings and records the result;
-5. the solution and hint ladder match the player-facing materials exactly.
+Keep this as a candidate only. Do not call it playable, canon, or a production specification until:
+1. the reason for the blank center is supported by fair evidence, or the ending is explicitly reframed as an open invitation;
+2. each record has a distinct but accessible presentation and a matching text equivalent;
+3. the complete player-facing experience exists;
+4. a cold reader can solve the logic without coaching;
+5. a reviewer records plausible alternate readings;
+6. the solution guide and hint ladder match the player-facing materials exactly.
