@@ -62,3 +62,22 @@ The order-comparison is diagnostic, not a scientific experiment with a tiny samp
 ## Current decision
 
 This is a revised candidate intended to make the spatial step explicit and testable. It remains **proposed and untested**. Cold-reader behavior—not the designer's confidence—is the next evidence needed.
+
+## Adversarial revision direction — not yet player-ready
+
+The repeated phrase “center shelf” currently gives away the intended interpretation. A revision should remove that repeated explanation without removing the evidence needed to infer the center's role.
+
+Candidate direction for the next draft:
+
+- Keep the three spatial constraints, but treat them as a modest ordering aid—not as the mystery's achievement.
+- Give each station record a local task and a concrete material transition: an item is left, used later, or returned. Do not repeatedly explain that the center is a shared shelf.
+- Let the map supply the spatial evidence: the four station paths converge on an unlabelled central feature. Give that feature no name or stated purpose.
+- Ensure the records contain enough traceable detail that reading in the constrained order reveals a progression of practical work, while a shuffled reading does not simply hand the same interpretation to the player.
+- Do not imply that a sequence of useful actions proves universal access, common ownership, or the mapmaker's intent.
+
+**Important:** this is a design direction, not a validated solution. Removing the shelf references alone would weaken the evidence rather than fix the puzzle. The records and map must be redesigned together. Keep the player draft marked as a draft until a coherent version exists; do not call this candidate playable or ready for cold readers yet.
+
+### Desk-review gate
+
+Before revising the player handout, write down what a reader can infer from (a) the map alone, (b) the records in arbitrary order, and (c) the records in the constrained order. The third case must contribute a specific, explainable insight—not merely make the same answer feel more obvious. If that difference cannot be stated cleanly, discard the ordering mechanic.
+
