@@ -55,3 +55,37 @@ No cold-reader playtest has been conducted. This is a designer desk review, not 
 ## Historical candidate, for context
 
 The earlier concept used four equally spaced stations—Lantern, Seed, Bell, River—with constraints placing Lantern opposite Bell, Seed opposite River, and Seed immediately clockwise from Lantern. Its record trail used chalk, seed packets, and cord. Those elements are retained here only to explain why the candidate was rejected; they are not requirements for the next design.
+
+## Next candidate to investigate — the dry channel
+
+This is a **design sketch only**, not a replacement player draft.
+
+### Mystery question
+
+A small community garden's three beds are dry after a night when the cistern was known to be full. The player must determine what the evidence actually supports about where the water stopped flowing.
+
+### Candidate evidence system
+
+- A simple map shows one cistern feeding a main channel, then three branch channels to beds A, B, and C.
+- Four maintenance slips describe the state of specific gates before or after a single adjustment. Each slip reports both the gate state and an observable downstream consequence (for example, a marked gauge changing or remaining unchanged).
+- The slips are not pre-labelled with a complete chronological order. Their state transitions constrain which slip can follow another.
+- The player reconstructs the only compatible sequence, then uses the sequence plus the map to distinguish a blocked branch from a gate that was deliberately closed or a channel that never received water.
+
+### Why this might earn ordering
+
+The intended insight would not be “water is shared.” It would be a causal diagnosis: **which segment first fails to transmit a change in water level**, and therefore what the evidence localizes—and does not localize—about the interruption.
+
+The map alone gives connectivity, not the failure location. The slips in arbitrary order give isolated states but not the state transitions in time. A compatible sequence could expose the first break in the chain.
+
+### Failure conditions before drafting
+
+This candidate must be abandoned or redesigned unless a concrete set of slips passes all of these desk checks:
+
+1. Exactly one sequence satisfies the stated state-transition evidence, or any remaining ambiguity is explicitly intended.
+2. The diagnosis follows from the observations; it does not require assuming a character lied, guessing motives, or importing gardening expertise.
+3. A shuffled presentation of the same slips does not make the causal chain equally obvious without doing the reconstruction.
+4. The final inference is no stronger than the evidence: a dry bed alone cannot prove a blocked channel if a closed gate or another cause remains possible.
+5. The solution can explain why each competing diagnosis fails, not just announce the intended answer.
+
+**Current status:** promising structure, but not yet proven coherent. No player-facing text should be written from this sketch until the slips and state transitions have been worked through exhaustively.
+
