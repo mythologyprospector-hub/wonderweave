@@ -17,14 +17,14 @@ Arrange the four stations around the ring using the station notes. Then read the
 The map has four equally spaced sockets around a ring. The center is blank.
 
 ```text
-                 [       ]
-
-        [       ]    ○    [       ]
-
-                 [       ]
+                  [       ]
+                 /         \\
+        [       ]     ○     [       ]
+                 \\         /
+                  [       ]
 ```
 
-The circle marks the empty center; the four brackets are the station sockets. The paths connect neighboring sockets around the ring.
+The brackets are station sockets; the circle is the empty center. The lines show the paths connecting neighboring stations around the ring, without crossing the center.
 
 **Clockwise** means moving around the ring in the same direction as the hands of a clock: from 12 to 3, then 6, then 9, and back to 12.
 
