@@ -128,4 +128,23 @@ Each slip records the state before an action and the state after it. The slips a
 **Decision:** do not draft player-facing materials yet. The state chain is internally consistent, but the candidate does not yet pass the evidence-completeness or payoff tests. A redesign must either (a) explicitly frame the puzzle as interpreting a controlled diagnostic test, with a meaningful question about what the test can establish, or (b) provide fair, dated evidence connecting the observations to the original dry-bed incident. Any gate-state claim must be stated in the evidence, not smuggled in through assumed wording.
 
 The design may still be rejected if adding that context makes the solution obvious, contrived, or emotionally empty. Do not add narrative decoration to conceal a weak deduction.
+### Candidate disposition — 2026-10-10
 
+The independent audit leaves the dry-channel concept **not approved as the first mystery**. Its sequence is valid, but its evidence describes a test without tying it to the incident, and the current payoff is mostly a technical diagnosis. Fixing that would require adding evidence and a human-relevant reason to care; adding atmosphere alone would not solve either problem.
+
+Do not continue polishing the four-slip version. Keep it as a useful test of state-transition logic, not as the selected mystery.
+
+### Next design pass: compare mystery cores before choosing a mechanism
+
+The next work should compare a small number of genuinely different mystery cores against the first-proof-of-craft requirements in `CANON.md` and `ROADMAP.md`. For each candidate, answer:
+
+1. What specific question makes a newcomer curious within the first minute?
+2. What surprising but fair conclusion can the evidence support?
+3. What evidence is needed, and what tempting conclusion must remain unproven?
+4. Why does solving it matter emotionally or intellectually beyond “the puzzle has an answer”?
+5. Can different strengths contribute, can a solo player finish, and can hints help without giving away the reveal?
+6. What is the smallest complete ending that feels like a gift rather than a teaser?
+
+Only then choose a mechanism. A map, sequence, cipher, or physical pattern is a tool, not a requirement. No candidate should advance to player-facing drafting until its core deduction and payoff can be stated plainly and withstand an adversarial review.
+
+**Current project state:** both the station-order concept and the current dry-channel version have failed to earn a player draft. No playable mystery or successful playtest is claimed.
