@@ -8,128 +8,130 @@
 
 Can four small records, each understandable on its own, combine into a satisfying discovery without specialist knowledge, external searching, or a mandatory starting point?
 
-The first attempt used four clockwise relationships to form a loop. That is logically sound but too simple by itself, and it does not explain the blank center.
+The first attempt used four clockwise relationships to form a loop. That is logically checkable but too slight by itself. This draft joins the loop to a second evidence layer: records of objects moving through a shared center.
 
-The next attempt proposed four journeys converging on the center. Convergence alone is not a satisfying second discovery: if every record simply points toward an obvious center, the result is mechanical and the blank's purpose remains unexplained.
+## Player-facing introduction
 
-## Candidate second discovery: a place maintained by everyone
+> The mapmaker left a map with four named stations around an empty center. Four records were found with it. Each records a station relationship and something that happened at the center. You can read them in any order.
+>
+> Work out the stations' order. Then look again at the records: what do they suggest about the place the mapmaker left unnamed?
 
-A stronger possibility is that the records show two independently checkable things:
+This wording asks for a supported interpretation, not a secret word or a single provable motive.
 
-1. The outer stations form a connected cycle.
-2. At the center, people leave useful things, borrow what they need, and return shared items; the records show no individual claiming the place or its supplies.
+## Map layout
 
-Together, those details support—but do not mathematically prove—the interpretation that the blank is a **shared place, not a privately owned landmark**. The solution guide must call this a supported interpretation, not pretend the evidence uniquely proves the mapmaker's feelings.
+Use this same simple arrangement in the visual map and its text equivalent:
 
-This candidate is more promising because the second discovery changes how the player understands the blank: the absence of a name may protect the idea that the place is for everyone. It remains a hypothesis until the exact clue set is tested.
+```
+             LANTERN
 
-## Player-facing setup under review
+RIVER          [ ? ]          SEED
 
-> The mapmaker's map has four named stations and an empty center. Four records were found among the mapmaker's papers. Each preserves part of a journey or an action taken along the way. You can inspect the records in any order. Work out how the records belong together, then decide what the evidence suggests about the empty place.
+              BELL
+```
 
-The setup asks what the evidence suggests; it does not promise one provable emotional explanation.
+The stations sit on a ring around the center. Clockwise from the top, the order is Lantern → Seed → Bell → River → Lantern. The diagram is schematic, not a scale drawing; the station labels and their positions are the relevant information. Do not use color as a clue.
 
-## The four stations
+## The four records — concrete draft
 
-- **LANTERN** — lamp mark
-- **RIVER** — wave mark
-- **SEED** — seed mark
-- **BELL** — bell mark
+**Record A — Surveyor's sketch**
 
-The marks are redundant visual identifiers, not color-only clues. Each has a plain-language label.
+> **Station note:** River comes immediately after Bell when moving clockwise.
+>
+> **Dawn, first day:** A piece of chalk lay at the center. It had no initials or mark of ownership. I used it to mark a loose stone on the river path, then put it back where I found it.
 
-## Structural layer: the clockwise loop
+**Record B — Gardener's field note**
 
-Four local relationships previously proposed:
+> **Station note:** Moving clockwise from Lantern brings you directly to Seed.
+>
+> **Midday, first day:** I used the chalk from the center to mark three planting rows and returned it. I left a small bundle of seed packets there for the next person who needed them.
 
-1. Surveyor's sketch: River follows immediately after Bell clockwise.
-2. Gardener's observation: leaving Lantern and taking the next clockwise station brings you to Seed.
-3. Ferryman's note: from Seed, the next clockwise station is Bell.
-4. Mapmaker's annotation: River is followed directly by Lantern clockwise.
+**Record C — Ferryman's travel log**
 
-Together these imply the cycle **River → Lantern → Seed → Bell → River**, unique up to rotation. The clues establish the order, but do not establish north or any particular word for the center.
+> **Station note:** Moving clockwise from Seed brings you directly to Bell.
+>
+> **Sunset, first day:** I took one seed packet from the bundle to repair a bare patch on the riverbank. I left a coil of spare cord at the center before heading home.
 
-This mechanism is logically checkable, but likely too easy as the entire mystery. Keep it only if it supports a richer, fair discovery—not decorative complexity.
+**Record D — Mapmaker's annotation**
 
-## Draft evidence for the shared-place interpretation
+> **Station note:** Moving clockwise from River brings you directly to Lantern.
+>
+> **Morning, second day:** I borrowed the cord from the center to mark a safe crossing and returned it afterward. I drew the four stations and their paths on this map, but I drew no fence around the place where they meet.
 
-These are candidate record passages to test for consistency and clarity, not final player-facing copy.
+These passages are a coherent draft, not approved final copy. The times establish a readable sequence, but playtesters must still be asked what they infer without being coached.
 
-**Surveyor's sketch note**
+## Intended solution: structural layer
 
-> I found a piece of chalk at the center, with no name beside it. I used it to mark a loose stone on the river path, then returned it.
+The four station notes establish these links:
 
-**Gardener's field note**
+1. Bell → River.
+2. Lantern → Seed.
+3. Seed → Bell.
+4. River → Lantern.
 
-> I left seed packets at the center for anyone who might need them. I borrowed the chalk to mark three planting rows and returned it before dusk.
+Together they establish the cycle **Lantern → Seed → Bell → River → Lantern**, unique up to rotation. The map fixes the displayed positions, so no north-orientation guess is needed.
 
-**Ferryman's travel log**
+The route structure is a short warm-up, not the entire mystery. If it is the only thing players find interesting, the design has not met its ambition.
 
-> I left a coil of spare cord at the center. I took one seed packet to restore the bank where boats land. No name was written on the cord.
+## Intended solution: evidence layer
 
-**Mapmaker's annotation**
+The records supply several cross-checkable details:
 
-> I used the cord to mark a safe crossing, then put it back at the center. On my map I marked the four stations and their paths, but drew no fence around the place where the paths meet.
+- Chalk is present at the center, used by the surveyor, then borrowed and returned by the gardener.
+- Seed packets are left at the center, then one is taken for a practical use.
+- Cord is left at the center, borrowed for a practical use, then returned.
+- The chalk has no ownership mark, the mapmaker draws no fence, and no record describes asking a gatekeeper for permission.
 
-### What this evidence can and cannot establish
+Together, these details support a reasonable interpretation: the center functions as a shared-use place where useful things can be left and taken. The mapmaker's choice not to draw a boundary reinforces that reading.
 
-- The repeated borrow-and-return pattern supports the idea that some things at the center are shared.
-- The seed packet moves from the center to a practical use; the cord does too.
-- The lack of personal marks and the absence of a boundary reinforce the shared-place reading.
-- These details do **not** prove that nobody owns the place, that every traveler is welcome, or that the mapmaker had one exact motive. Avoid claiming more than the records show.
+**What is proved:** the station cycle follows from the notes; the records describe objects being left, used, borrowed, and returned at the center.
 
-A reviewer must check chronology and item movement, particularly the chalk being returned before it is borrowed and the cord being left before it is used. If the chronology is confusing, revise the records rather than asking players to repair the story themselves.
+**What is inferred:** the place is intended for shared use.
 
-## Intended reasoning path
+**What is not proved:** that nobody owns the land, that absolutely everyone is welcome, or that the mapmaker had one exact private motive. The ending must preserve that distinction.
 
-1. Solve the station relationships and verify the closed cycle.
-2. Notice that the center is not merely empty: several records describe items left, borrowed, used, and returned there.
-3. Cross-check the details between records rather than treating each as an isolated anecdote.
-4. Combine those details with the mapmaker's choice not to draw a boundary.
-5. Conclude that a shared-use place is a reasonable reading of the evidence, while recognizing that the precise motive remains open.
+## Does the second layer earn its place?
 
-The solution guide must cite the exact record details supporting each step. If players must accept a moral lesson that is not in the evidence, the design has failed.
+This remains the key design risk. The object trail may be too explicit or may feel like a moral lesson attached to a simple ordering puzzle. Do not assume it is satisfying just because the logic is consistent.
 
-## Design risks to resolve
+Cold readers should be able to answer, in their own words:
+- What did the station notes establish?
+- Which details across different records changed how they understood the center?
+- What conclusion is supported, and what remains uncertain?
 
-- **Too easy:** If the records announce the lesson outright, the player has nothing to discover.
-- **Too hard:** If players must infer undocumented timing or item movement, the evidence is unfair.
-- **False convergence:** The map's geometry must clearly establish the station cycle and central meeting point.
-- **Weak second layer:** A few borrowed objects may feel like decoration rather than a meaningful deduction. Cold readers must be able to explain why those details matter.
-- **Overclaiming:** Evidence of shared use is not proof of universal access, legal ownership, or the mapmaker's inner feelings.
-- **Overlong experience:** Do not pad the puzzle to reach the 15–30 minute target. Let playtesting establish a realistic duration.
-
-## Accessibility requirements
-
-- Every map or diagram has a complete text equivalent.
-- Direction symbols are explained and are not conveyed by color alone.
-- The map has legible labels and no essential tiny details.
-- The records use plain language and can be read in any order.
-- Players can trace, point, write, or discuss; no timed interaction is required.
-- No external search, specialist geography, mythology, or cultural knowledge is required.
+If they merely repeat “sharing is good,” the second layer has failed. If they identify the cross-record evidence and distinguish evidence from interpretation, it may be worth developing.
 
 ## Hint ladder
 
-1. **Gentle nudge:** First work out how the four stations relate; then read what each person did at the center.
-2. **More direct:** Track the shared objects across the records. Who leaves them, who borrows them, and what happens afterward?
-3. **Nearly there:** The closed route is one discovery. What do the repeated acts of leaving, borrowing, and returning suggest about the center?
+1. **Gentle nudge:** First connect the four station relationships. Then compare what each record says happened at the center.
+2. **More direct:** Track the chalk, seed packets, and cord across the records.
+3. **Nearly there:** The records show useful things being left, taken for a purpose, and returned. What does that suggest about how the center is used?
 
-Hints may clarify evidence but must not add a new rule.
+Hints may direct attention to evidence but must not add a new rule.
 
-## Alternate-solution and fairness review
+## Accessibility requirements
+
+- Provide the same map in a legible visual form and a complete text equivalent.
+- The station order must not depend on color, tiny marks, or an unstated compass direction.
+- Use plain language; explain “clockwise” with a simple labeled example if needed.
+- Records can be read in any order, with their times available for checking chronology.
+- Players may trace, write, point, or discuss; no timed interaction is required.
+- No external search, specialist geography, mythology, cultural knowledge, account, purchase, or real-world activity is required.
+
+## Alternate-solution and consistency checks
 
 Before acceptance, verify:
-- all four records can be attempted in any order;
-- each station relationship has one traceable interpretation;
-- the cycle follows from the stated clues;
-- the object chronology is consistent and comprehensible;
-- at least two independent details support the shared-place interpretation;
-- plausible alternate interpretations are acknowledged in the solution guide;
-- the ending distinguishes proven structure from interpretation;
-- a cold reader can explain both discoveries without coaching.
+- each station relationship has one interpretation;
+- the four links establish the stated cycle;
+- object movements and times do not contradict each other;
+- the records support shared use without overstating ownership or universal access;
+- at least two independent record details support the second inference;
+- the interpretation is not simply handed to the player by the question or by an explicit moral;
+- a cold reader can explain both layers without coaching;
+- the solution guide separates facts from inference.
 
 ## Decision gate
 
-Keep this as a candidate, not a playable puzzle. Do not call it canon or production-ready until the exact map and records are assembled, the solution is reproducible, object movement and chronology are checked, alternate readings are documented, and cold readers can solve it without coaching.
+This is a concrete candidate draft, **not a playable or playtested puzzle**. Do not call it canon or production-ready until the map and records are assembled as one player-facing artifact, a reproducible solution and accessible equivalents are included, alternate readings are documented, and cold readers can solve it without coaching.
 
-If the second layer feels like a lesson attached to a route puzzle rather than a discovery earned from the evidence, discard or redesign it. If the evidence cannot support the promised reveal, change the reveal—not the evidence.
+If the evidence cannot support the promised reveal, change the reveal—not the evidence. If the second layer feels attached rather than discovered, redesign it instead of adding decorative complexity.
