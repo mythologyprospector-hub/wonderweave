@@ -276,3 +276,65 @@ The reveal is therefore not “a mysterious person fixed it.” It is that **the
 Do not draft player-facing materials from this outline. Keep it as a useful adversarial test and reconsider the core question. The next concept must make the evidence reveal something genuinely unexpected about the shared object or its history—not merely the correct order of sensible repairs. A meaningful human implication must follow from the evidence, not be pasted on afterward.
 
 **Current status:** the shared-repair concept is not selected. No player draft, playtest, or success claim is authorized.
+
+
+## Fresh mystery-core pass — 2026-10-10
+
+The failed concepts shared a hidden habit: starting with a mechanism (ordering, state transitions, repair steps), then asking it to carry meaning. This pass starts instead with a concrete apparent contradiction and asks what discovery could change the reader's understanding of an ordinary shared object. These are still desk hypotheses, not player-tested concepts.
+
+### Candidate D — The bench that is too short
+
+**Hook:** A public meeting-room bench appears to have been built incorrectly: its measurements do not match the old plan, and the surviving pieces seem not to belong together.
+
+**Possible discovery:** The evidence may show that the bench was designed to change configuration: one short arrangement keeps a passage clear, while a removable section extends it for larger gatherings. The “missing” section is not missing at all; it belongs to a different documented configuration.
+
+**Evidence needed:** A plan with dimensions; matching, distinctive joinery on the loose section and bench; two dated room layouts with measured clearance; and a record or physical mark that discriminates a deliberate modular design from an improvised later alteration.
+
+**Human implication:** The shared object was made to serve two incompatible room needs rather than one idealized use. This would be earned only if the two configurations are independently evidenced; it cannot be inferred merely because flexibility is a nice story.
+
+**Risk:** A loose part plus two layouts may make the answer trivial. If the records do not establish the part's intended role, the “designed for everyone” reading is sentimental overreach. No claim about accessibility or who benefited should be made without evidence.
+
+### Candidate E — The notice that was never wrong
+
+**Hook:** Three preserved notices give different instructions for the same community event. Each seems authoritative, so at least two appear mistaken.
+
+**Possible discovery:** They refer to distinct phases of one event, and the apparent contradiction comes from treating a changing process as a single static instruction. A small floor plan, a sequence of setup marks, and one independently dated notice might establish the transition.
+
+**Evidence needed:** Each notice must contain a discriminating detail that pins it to a phase; the physical or dated records must independently corroborate that phase. Mere ambiguity in wording is not enough.
+
+**Human implication:** The event was coordinated through changing conditions, not one universal instruction. That is potentially useful, but weak as a first-mystery payoff unless the revealed transition changes what the player thinks happened.
+
+**Risk:** This easily becomes a generic “everyone was right in their own way” riddle. Reject it if the resolution depends on charitable reinterpretation rather than evidence.
+
+### Candidate F — The path that seems to waste space
+
+**Hook:** A small public courtyard has a path that takes a strange bend even though a straight route would be shorter. Old diagrams disagree about whether the bend was planned.
+
+**Possible discovery:** Layered plans, runoff marks, and a measured contour may show that the bend follows the only route that stays passable when water crosses the courtyard. The path is not inefficient; the simple map omitted a condition that matters.
+
+**Evidence needed:** A scale plan; contour or level measurements; a mapped water route; and an observation showing why the straight route fails under the specified condition. Aesthetic intent, access benefits, and historical motive must remain unclaimed unless directly supported.
+
+**Human implication:** A choice that looks irrational from a simplified view may be sensible under a constraint that view leaves out. This is a strong transferable insight, but the emotional payoff is modest and the puzzle risks turning into an engineering worksheet.
+
+### Comparative screen
+
+| Candidate | Surprise potential | Evidence can bound the answer | Human meaning earned by evidence | Main failure risk |
+|---|---|---|---|---|
+| D: Reconfigurable bench | Moderate | Moderate | Potentially strong | “Designed for everyone” invented after the fact |
+| E: Changing event instructions | Low–moderate | Moderate | Low–moderate | Generic lateral-thinking riddle |
+| F: Bent courtyard path | Moderate | Strong | Moderate | Technical explanation mistaken for a mystery |
+
+**Decision:** none yet clears the first-mystery bar. D has the most human potential but repeats the repair concept's temptation to tell a generous story that the evidence may not prove. F is the most readily falsifiable, but risks being a lesson rather than a mystery. Do not choose one just to maintain momentum.
+
+### Stronger test before another concept is promoted
+
+The next concept must have a *specific reversal*: a plausible initial interpretation, at least two independent evidence strands that undermine it, and a narrower replacement interpretation that explains both. The replacement must change the meaning of the object or event, not merely explain how it works. Before drafting any player-facing material, write:
+
+1. The first interpretation a reasonable newcomer would make.
+2. Two independent clues that make that interpretation fail.
+3. The exact revised conclusion those clues support.
+4. One plausible alternative that remains possible, and the evidence that prevents claiming more.
+5. The human implication in one sentence, followed by the evidence for each factual premise in that sentence.
+6. Why a player would care even if the object had no sentimental backstory.
+
+If no candidate can satisfy all six without hidden assumptions, the correct action is to keep searching—not to write a handout. The rejected Map, Dry Channel, and shared-repair concepts remain historical design tests. No candidate is approved, playable, or tested with players.
