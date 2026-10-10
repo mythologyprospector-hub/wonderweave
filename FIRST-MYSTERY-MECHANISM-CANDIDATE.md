@@ -117,3 +117,15 @@ Each slip records the state before an action and the state after it. The slips a
 
 **Next gate:** independently check every state transition and the unique ordering; then draft a plain-language reveal that states the strongest supported diagnosis and explicitly preserves the unresolved closed-gate-versus-obstruction distinction. Only after that should a player handout be drafted.
 
+### Independent transition audit — 2026-10-10
+
+**Audit result:** the four listed gauge-state transitions do chain in one order, K → M → P → R. This verifies the table's state matching, not the quality of the mystery.
+
+**Evidence defect found:** the stated evidence system says each slip records gate state and downstream consequence, but the table records gauge states and actions only. It does not explicitly record each gate's before/after position. In particular, the claim that branch gates A and B were closed before P, or that C was closed before R, is inferred from the verbs “open” rather than separately evidenced. That wording may be understandable in ordinary language, but it is not a complete explicit state record.
+
+**Larger design defect:** the slips reconstruct a controlled test sequence, but do not establish that this test was performed during or after the night when the beds were found dry. The test localizes a failure in the normal inlet route under the described conditions; it does not, by itself, explain the original incident or establish why the beds were dry. The mystery question therefore currently promises more than the evidence answers.
+
+**Decision:** do not draft player-facing materials yet. The state chain is internally consistent, but the candidate does not yet pass the evidence-completeness or payoff tests. A redesign must either (a) explicitly frame the puzzle as interpreting a controlled diagnostic test, with a meaningful question about what the test can establish, or (b) provide fair, dated evidence connecting the observations to the original dry-bed incident. Any gate-state claim must be stated in the evidence, not smuggled in through assumed wording.
+
+The design may still be rejected if adding that context makes the solution obvious, contrived, or emotionally empty. Do not add narrative decoration to conceal a weak deduction.
+
