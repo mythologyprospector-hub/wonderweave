@@ -1,10 +1,14 @@
 # Wonderweave — First Mystery Solution Guide
 
-**Status:** Proposed  
+**Status:** Rejected design candidate — retained for review history  
 **Governs:** Hints, intended resolution, and review criteria for The Unfinished Map; not approved or playtested.  
 **Last verified:** 2026-10-10
 
 **Spoiler warning:** Keep this guide separate from the player-facing draft.
+
+## Design status
+
+This guide explains the rejected candidate only. Its intended answer is not evidence that the puzzle works. The station-order mechanism failed desk review because the records support the same inference without the ordering step. Do not use this guide as a solution key for a playtest. See `FIRST-MYSTERY-MECHANISM-CANDIDATE.md`.
 
 ## Hint ladder
 
