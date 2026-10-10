@@ -12,9 +12,9 @@ The first attempt used four clockwise relationships to form a loop. This draft j
 
 ## Player-facing introduction
 
-> The mapmaker left a map with an empty center, four unmarked places around it, and four station cards. Four records were found with the map. Each records a relationship between stations and something that happened at the center. You can read them in any order.
+> The mapmaker left a map with an empty center, four unmarked places around it, and four station cards. Four records were found with the map. Three records give relationships between stations; all four describe something that happened at the center. You can read them in any order.
 >
-> Arrange the stations around the ring using the records. Then look again at what happened at the center: what does the evidence suggest about that place?
+> Arrange the stations around the ring using the records. Then look again at what happened at the center. What, if anything, can you infer from the evidence?
 
 This asks for a supported interpretation, not a secret word or a single provable motive.
 
@@ -53,22 +53,19 @@ Text equivalent: “Arrange the four station cards around four equally spaced po
 
 **Record D — Mapmaker's annotation**
 
-> **Station note:** Moving clockwise from River brings you directly to Lantern.
->
 > **Morning, second day:** I used the cord to mark a safe crossing and returned it to the stone shelf. I drew four empty sockets and the paths between them, leaving the center without a label or boundary.
 
-These passages are a coherent draft, not approved final copy. The times establish a readable sequence, but playtesters must still be asked what they infer without being coached.
+These passages are a coherent draft, not approved final copy. Three station notes establish a chain whose closure depends on noticing that the map is a ring. The times establish a readable sequence, but playtesters must still be asked what they infer without being coached.
 
 ## Intended solution: structural layer
 
-The four station notes establish these links:
+The three station notes establish these links:
 
 1. Bell → River.
 2. Lantern → Seed.
 3. Seed → Bell.
-4. River → Lantern.
 
-Together they establish the cycle **Lantern → Seed → Bell → River → Lantern**, unique up to rotation. The cards begin unplaced, so the map itself does not give away the ordering. Clockwise is defined by the instruction and neutral example, not by a compass or cultural convention.
+Together, they form the chain **Lantern → Seed → Bell → River**. Because the four positions form a ring, the chain closes from River back to Lantern. The completed cycle is **Lantern → Seed → Bell → River → Lantern**, unique up to rotation. The cards begin unplaced, so the map itself does not give away the ordering. Clockwise is defined by the instruction and neutral example, not by a compass or cultural convention.
 
 This ordering is a short warm-up, not the entire mystery. If it is the only thing players find interesting, the design has not met its ambition.
 
@@ -121,7 +118,7 @@ Hints may direct attention to evidence but must not add a new rule.
 
 Before acceptance, verify:
 - each station relationship has one interpretation;
-- the four links establish the stated cycle;
+- the three stated links plus the ring establish the stated cycle;
 - the object movements and times do not contradict each other;
 - the records support shared use without overstating ownership or universal access;
 - at least two independent record details support the second inference;
