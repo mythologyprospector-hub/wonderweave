@@ -10,6 +10,25 @@ Prove the experience before building the machinery around it. Keep the first rel
 
 A phase advances on evidence, not enthusiasm alone. The roadmap is a living proposal and should change when playtests or research show a better path.
 
+## Long-range wish — worldwide cultural reach
+
+The ambition is to make Wonderweave so inviting, memorable, and easy to share that it could catch on around the world at a scale comparable to soccer's global reach.
+
+This is a north-star wish, not a forecast or a promise. We cannot manufacture genuine affection by declaring something viral. We can design for the conditions that make people want to bring others in:
+
+- **An instant invitation:** a newcomer can understand the appeal quickly and take a first step without credentials, expensive equipment, or a long onboarding process.
+- **A satisfying first experience:** the first mystery gives people a complete payoff, not just a teaser or a demand to sign up.
+- **A natural reason to share:** players have something delightful to show, discuss, solve together, or pass along—with no requirement to expose private information or post publicly.
+- **Many cultural entry points:** stories, forms of play, languages, and examples can be adapted with context and respect rather than assuming one culture's references are universal.
+- **Different ways to belong:** children and adults, casual explorers and deep puzzle-solvers, solo players and groups can all find meaningful participation.
+- **A world worth returning to:** discoveries connect into a coherent larger experience, while each entry point remains welcoming.
+- **Trust:** clues are fair, claims are honest, privacy is respected, and community participation is safe.
+- **Craft that travels:** the experience remains compelling when shared by word of mouth, printed, translated, or encountered through different kinds of access.
+
+Do not pursue growth through manipulative engagement loops, artificial scarcity, spam, compulsory social posting, pay-to-win mechanics, or harvesting player data. Reach is valuable only if the experience deserves it.
+
+We should measure early success through observed play: whether people finish, enjoy the reveal, want to show someone else, and return voluntarily—not vanity metrics alone. Any future growth strategy should follow evidence from players rather than precede it.
+
 ## Phase 1 — Define the first experience
 
 **Goal:** Choose and design one compelling, self-contained mystery.
@@ -46,7 +65,8 @@ Work:
 - observe confusion, accidental shortcuts, inaccessible steps, dead ends, and unintended readings;
 - distinguish a puzzle being difficult from a puzzle being unfair;
 - revise and repeat rather than defending a flawed clue;
-- keep a record of findings and why changes were made.
+- keep a record of findings and why changes were made;
+- ask whether players would voluntarily share the experience or invite someone else, and why.
 
 **Exit evidence:** Recorded playtest findings, resolved critical blockers, and evidence that the mystery can be completed fairly by its intended audience.
 
@@ -68,21 +88,24 @@ Possible directions:
 - optional cooperative play;
 - reviewed community contributions;
 - multilingual and culturally contextualized experiences;
-- a public interface if it demonstrably improves access and play.
+- a public interface if it demonstrably improves access and play;
+- sharing formats that make it easy for players, families, educators, clubs, and communities to introduce others.
 
-Expansion is earned by the quality and maintainability of the experience, not by the number of puzzles published.
+Expansion is earned by the quality and maintainability of the experience, not by the number of puzzles published. Global reach is pursued by making the game worth sharing, not by treating people as growth targets.
 
 ## Current state
 
 - Repository created: yes.
 - Universal Project Seed installed on main: yes.
 - Project-specific game canon: proposed, awaiting owner review.
-- First mystery: not yet selected.
+- First mystery concept: **The Unfinished Map**, proposed in [FIRST-MYSTERY.md](FIRST-MYSTERY.md); the actual puzzle and reveal are not yet designed.
 - Playable game: not yet built.
 - Platform or production architecture: intentionally undecided.
+- Worldwide reach comparable to soccer: recorded as a long-range wish, not a promise.
 
 ## Related documents
 
 - [README](README.md)
 - [CANON](CANON.md)
+- [FIRST-MYSTERY](FIRST-MYSTERY.md)
 - [AGENTS](AGENTS.md)
