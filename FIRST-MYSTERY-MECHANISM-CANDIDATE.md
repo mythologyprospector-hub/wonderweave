@@ -338,3 +338,40 @@ The next concept must have a *specific reversal*: a plausible initial interpreta
 6. Why a player would care even if the object had no sentimental backstory.
 
 If no candidate can satisfy all six without hidden assumptions, the correct action is to keep searching—not to write a handout. The rejected Map, Dry Channel, and shared-repair concepts remain historical design tests. No candidate is approved, playable, or tested with players.
+
+
+## New direction: evidence of a relationship — 2026-10-10
+
+The last passes kept explaining a single object's apparent flaw. A stronger mystery may reveal a relationship between artifacts that initially seem unrelated. This is a direction to test, not a selected concept.
+
+### Candidate J — The mark shared by unrelated objects
+
+**Initial reading:** Several everyday objects in a community collection carry the same unusual notch. It could be a maker's mark, decoration, or coincidence.
+
+**Evidence that could discriminate:** (1) scaled drawings show the notch has the same non-decorative dimensions and position relative to a functional edge; (2) a dated workshop diagram shows a reusable jig with that exact spacing; (3) independent acquisition records place the objects in different locations before they entered the collection.
+
+**Possible discovery:** The mark is not evidence that one person made all the objects; it records a shared process or tool that linked otherwise separate work. The records could reveal a hidden production relationship without identifying an individual.
+
+**Limits:** Matching dimensions alone do not prove use of the same jig. The workshop diagram must predate the objects or otherwise be independently linked, and alternative standard sizes must be considered. Do not claim a network, collaboration, or shared purpose unless the evidence establishes it.
+
+**Payoff test:** This could change the story from “these objects are alike” to “these objects share a production history.” That is a real relational discovery, but its human meaning is still weak and the exact jig evidence could make the answer too technical.
+
+**Verdict:** Hold for further testing; not approved for a player draft.
+
+### Candidate K — The route that links places no map connects
+
+**Initial reading:** Several old records describe separate deliveries to different public places, with no obvious connection.
+
+**Evidence that could discriminate:** The same rare container dimensions recur in independent receiving records; a route ledger records return intervals; and a dated inventory shows the containers were reused rather than separately owned by each location.
+
+**Possible discovery:** The records may describe a circulating system rather than unrelated deliveries. The relationship is a repeated movement of shared containers, not just a shared label.
+
+**Limits:** Common dimensions and repeated dates are not enough by themselves; a continuous chain of custody or unique marks would be needed. The records must support the route and recurrence, not motives or community impact.
+
+**Payoff test:** Potentially reveals invisible infrastructure behind apparently separate activities. But without a compelling consequence of that circulation, it risks becoming a logistics puzzle.
+
+**Verdict:** Hold. Needs a sharper human or intellectual payoff before any mechanism is designed.
+
+### Current finding
+
+These relational candidates are more promising in kind because they seek to uncover a connection across independent evidence rather than reinterpret one object's condition. Neither currently earns a first mystery: J is too technical, and K has no compelling consequence yet. The next pass should find a relationship whose discovery matters in its own right, while preserving a narrow, evidence-bounded conclusion. No candidate is approved, playable, or player-tested.
