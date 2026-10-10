@@ -1,6 +1,6 @@
 # Wonderweave — First Mystery Prototype Brief
 
-**Status:** Proposed  
+**Status:** Prototype brief paused pending a new mystery mechanism  
 **Governs:** The design target for a first-mystery prototype; it does not certify that the puzzle logic is complete or playable.  
 **Last verified:** 2026-10-10
 
@@ -98,6 +98,10 @@ The prototype is ready for broader playtesting only when:
 A platform is not an exit requirement. A strong, portable mystery is.
 
 ## Immediate design work
+
+The current station-order candidate failed desk review: the arrangement does not contribute a necessary inference beyond what the records already show. Its player draft and solution guide are retained for history but are not ready for playtesting. The next design task is to define a specific, evidence-based deduction first, then choose a map or ordering mechanic only if it materially enables that deduction.
+
+## Previous immediate design notes (superseded)
 
 The current candidate has a player draft, mechanism, and separate solution guide. Its main unverified claim is that the station order helps reveal a meaningful pattern. The next useful evidence is cold-reader behavior, especially whether the ordered records produce better-supported reasoning than shuffled records.
 
