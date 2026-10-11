@@ -25,6 +25,7 @@ The first mystery is a proof of craft, not a limit on the eventual game.
 
 Wonderweave is in its design and foundation stage. The vision and initial roadmap are proposals awaiting owner review; no playable game or production platform is claimed to exist yet.
 
+- [Welcome newcomers and AI guides](GUIDE-ONBOARDING.md)
 - [Proposed game canon](CANON.md)
 - [Proposed roadmap](ROADMAP.md)
 - [Operating constitution](AGENTS.md)
