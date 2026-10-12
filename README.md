@@ -29,9 +29,9 @@ Wonderweave is in its design and foundation stage. The vision and initial roadma
 
 ## Want to play?
 
-**If you came here to play, start with [PLAY.md](PLAY.md).** It gives any AI guide a short, provider-neutral instruction to begin an actual experience instead of summarizing the repository. No Codex connector or GitHub write access is required; the AI only needs access to the relevant play files.
+**If you came here to play, start with [PLAY.md](PLAY.md).** It gives an AI guide a provider-neutral instruction to begin an actual experience instead of summarizing the repository. No Codex connector or GitHub write access is required; the AI only needs access to the relevant play files.
 
-The first full mystery is still being designed. A guide should be honest about that and, if you want to play now, offer a short improvised demonstration clearly marked as a demo—not pretend the unfinished mystery already exists.
+The first full mystery is still being designed, but [PLAYER-DRAFT.md](PLAYER-DRAFT.md) contains a complete experimental mystery, *The Museum of Small Things*. It is a playtest draft—not approved canon or the finished first mystery. A guide should use that draft when it can access it; if no complete playable artifact is available, it should say so and offer a short improvised demonstration clearly marked as a demo.
 
 - [Welcome newcomers and AI guides](GUIDE-ONBOARDING.md)
 - [AI assistant design](ASSISTANT.md)
