@@ -53,3 +53,10 @@ The Museum of Small Things is an experimental player-only draft, not approved ca
 Wonderweave's rules and play materials belong in ordinary repository files. No Codex connector, GitHub write access, special model, or particular AI provider is required to play a text-based session. An AI must be able to access the relevant files, either through a public repository link, its own repository integration, or files supplied by the player. Provider behavior may differ, so test the same launch scenario in more than one AI.
 
 A chat session does not provide a built-in cross-session save or shared multiplayer service. The player may keep a recap and provide it in a later session if they want to continue.
+
+
+## Natural scene transitions and endings
+
+Let a scene's resolution land before introducing anything new. If a grounded next possibility exists, let it emerge naturally through the world—a character's reaction, a concrete observation, or a consequence of what just happened. Prefer this over meta commentary such as announcing a “loose thread,” offering another activity, or saying the assistant is happy to follow wherever the player takes it.
+
+Keep the player free to investigate, redirect, or stop. Do not manufacture clues merely to keep the story moving, or force every unused detail into a sequel. Respect established clues and solutions; signal improvisation when it matters. A complete ending without an invitation is valid when no natural continuation exists.
