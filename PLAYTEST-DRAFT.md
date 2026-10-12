@@ -1,69 +1,12 @@
-# Wonderweave — First Mystery Playtest Draft
+# Wonderweave — First Mystery Playtest Notes
 
-**Status:** Experimental draft for review and cold testing  
+**Status:** Experimental facilitator/reviewer notes  
 **Canon status:** Not approved; does not replace `FIRST-MYSTERY.md`  
-**Purpose:** Test one small, complete deduction before committing to a larger first-mystery design. This draft deliberately does not depend on a map, specialist knowledge, or an assumed larger secret.
+**Player handout:** [PLAYER-DRAFT.md](PLAYER-DRAFT.md) — use that file for cold testing. It contains no answer key.
 
----
+## What this experiment tests
 
-## Player copy — The Museum of Small Things
-
-### The empty place
-
-The Museum of Small Things keeps objects that people nearly threw away. One morning, its curator found an empty place in a display case and a note:
-
-> One object is missing. It belongs in the empty place because it matches all three observations below. You do not need outside knowledge: the object cards give you everything you need.
-
-Four objects were left on the table. Their cards describe them:
-
-- **The shell:** hard; came from an animal; not metal; has a spiral shape.
-- **The key:** hard; made of metal; made by a person.
-- **The feather:** soft; came from an animal; not metal.
-- **The button:** hard; made from wood, which comes from a plant; not metal.
-
-Three visitors left observations about the missing object:
-
-**Observation A — The child**
-
-> I pressed it gently. It is hard, not soft.
-
-**Observation B — The repairer**
-
-> I checked the object carefully. It is not made of metal.
-
-**Observation C — The gardener**
-
-> It came from an animal, not from a plant, and it was not made by a person.
-
-Which object belongs in the empty place? Explain how the observations support your answer.
-
-You can solve this by reading and comparing the cards. No real objects, special equipment, internet search, or time limit are needed.
-
-### The ending
-
-When you have an answer, check whether you can explain why each of the other three objects fails at least one observation. If only one object fits all three, you have restored the missing place.
-
-The curator's final note reads:
-
-> Thank you. I thought I had lost an object. You helped me recover the reason it belonged here.
-
-The case is complete. Nothing else is required to finish this mystery.
-
-### Optional reflection
-
-Which observation helped you most? Was there one you initially overlooked? You can keep your answer private, discuss it with someone you know, or share only your reasoning—not personal information.
-
----
-
-## Hints
-
-Offer these one at a time, only if useful.
-
-1. **Gentle nudge:** Compare each object's card with all three observations. An object must fit every observation, not just one or two.
-2. **Point to a feature:** The key fails Observation B. The feather fails Observation A. Now compare the shell and button with Observation C.
-3. **Nearly there:** The button comes from a plant, but Observation C says the object came from an animal. The shell is the only object that fits all three.
-
----
+This is a deliberately small deduction to test basic fairness, clarity, hints, and closure before investing in a larger first-mystery concept. It is not yet the rich, layered Wonderweave experience described in the project vision.
 
 ## Facilitator solution
 
@@ -76,21 +19,35 @@ Offer these one at a time, only if useful.
 
 The candidate cards explicitly state the properties needed for the deduction. The intended answer does not rely on a reader's assumptions about what a typical shell, key, feather, or button is like.
 
-## Reviewer checks
+## Desk review — not a human playtest
 
-- [ ] A cold reader understands the goal without extra explanation.
-- [ ] The answer is unique from the player-facing information.
-- [ ] Each observation eliminates at least one candidate.
-- [ ] The hints help without adding new evidence.
-- [ ] A player can explain why the other three candidates fail.
-- [ ] The ending feels complete even if the player never shares anything or plays another mystery.
-- [ ] Readers with different experience levels can engage without specialist knowledge.
-- [ ] Testers can describe their reasoning, not merely guess the intended answer.
+The clue set has a unique intended answer on the stated properties. Each observation contributes to eliminating at least one candidate, and the hints use information already present in the player handout.
 
-## What this draft does—and does not—prove
+However, this is a basic elimination puzzle with a story frame. It does **not** yet demonstrate layered discovery or the feeling of combining different kinds of observation. Do not treat internal review as evidence that real players will find it engaging or accessible.
 
-This is a tiny logic exercise with a story frame, not yet the rich, layered Wonderweave experience described in the project vision. It tests fairness, clarity, and closure; it does not yet test whether combining different kinds of observation creates a memorable sense of discovery.
+## Cold-reader protocol
 
-The next useful step is a cold-reader test. If the deduction is clear but the experience feels flat, improve the story and discovery—not by adding arbitrary extra clues. Return to the map concept only if a map materially improves the reasoning or emotional payoff.
+Give the tester only [PLAYER-DRAFT.md](PLAYER-DRAFT.md). Do not explain the puzzle or reveal the answer.
+
+1. Invite them to think aloud if they are comfortable; do not coach them.
+2. Note whether they understand the goal, what they try first, and where they hesitate.
+3. Let them request hints; reveal them in order and record which hint helped.
+4. After they finish or stop, ask the reflection questions in the player handout.
+5. Record their exact points of confusion and their own explanation of the answer, with their permission. Do not collect identifying or sensitive personal information.
+6. Do not call a guess a solve: ask whether they can explain why each alternative fails.
+
+### Pass conditions for this tiny prototype
+
+- The tester can restate the goal.
+- They can reach the shell using only the handout, with hints if needed.
+- They can explain why the key, feather, and button do not fit.
+- They do not need outside facts or an explanation from the facilitator.
+- They feel the ending is complete, even if the puzzle itself is simple.
+
+A pass only validates this small deduction. It does not prove that the puzzle is memorable, broadly accessible, or a suitable final first experience.
+
+## Next decision
+
+Use real cold-reader feedback before expanding this puzzle. If it is clear but forgettable, redesign the experience around a more meaningful insight rather than adding arbitrary complexity. Return to the map concept only if a map materially improves the reasoning or emotional payoff.
 
 No larger connection is implied. A complete small mystery is allowed to be complete.
