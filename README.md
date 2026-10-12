@@ -25,7 +25,13 @@ The first mystery is a proof of craft, not a limit on the eventual game. We shou
 
 ## Project status
 
-Wonderweave is in its design and foundation stage. The vision and initial roadmap are proposals awaiting owner review; no playable game, Commons service, or production platform is claimed to exist yet.
+Wonderweave is in its design and foundation stage. The vision and initial roadmap are proposals awaiting owner review; no complete first mystery, Commons service, or production platform is claimed to exist yet.
+
+## Want to play?
+
+**If you came here to play, start with [PLAY.md](PLAY.md).** It gives any AI guide a short, provider-neutral instruction to begin an actual experience instead of summarizing the repository. No Codex connector or GitHub write access is required; the AI only needs access to the relevant play files.
+
+The first full mystery is still being designed. A guide should be honest about that and, if you want to play now, offer a short improvised demonstration clearly marked as a demo—not pretend the unfinished mystery already exists.
 
 - [Welcome newcomers and AI guides](GUIDE-ONBOARDING.md)
 - [AI assistant design](ASSISTANT.md)
