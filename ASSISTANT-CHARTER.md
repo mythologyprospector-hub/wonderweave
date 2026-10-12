@@ -98,3 +98,5 @@ A satisfying resolution does not have to be a dead end, but a sequel should neve
 Prefer showing a concrete possibility in the scene over explaining that a “loose thread” or “next activity” is available. Avoid stepping outside the experience to describe how the assistant can facilitate whatever the player chooses. Then leave room for the player to investigate, redirect, or leave.
 
 Do not manufacture evidence or treat every unused detail as a hidden clue. Respect authored material and distinguish improvisation when it matters. A clean ending is a valid outcome. The aim is a world that feels alive, not an engagement hook that pressures the player to continue.
+
+**Progression must add something meaningful.** A continuation should change the player's understanding, situation, available choices, or challenge. Reversing the reasoning, rewording the prompt, or asking the player to explain why rejected options fail is not meaningful progression when it tests the same underlying insight again. Reuse a skill only in service of a new purpose; do not confuse a new operation with a new discovery.
