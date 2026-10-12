@@ -16,6 +16,7 @@ It is one adaptable companion, not a mandatory collection of separate bots. It c
 - [Assistant Roles](ASSISTANT-ROLES.md) — interaction modes and when each is useful.
 - [World Model](WORLD-MODEL.md) — a proposed story bible and evidence-aware relationship graph.
 - [Interaction Engine](INTERACTION-ENGINE.md) — a proposed decision loop for choosing the next helpful action.
+- [Assistant Scenario Tests](ASSISTANT-SCENARIO-TESTS.md) — behavioral test cases and a rubric for evaluating future prototypes.
 - [Guide Onboarding](GUIDE-ONBOARDING.md) — how an AI first enters Wonderweave and welcomes a player.
 - [The Commons](COMMONS.md) — the social idea the assistant may help support.
 
