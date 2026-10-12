@@ -17,6 +17,7 @@ It is one adaptable companion, not a mandatory collection of separate bots. It c
 - [World Model](WORLD-MODEL.md) — a proposed story bible and evidence-aware relationship graph.
 - [Interaction Engine](INTERACTION-ENGINE.md) — a proposed decision loop for choosing the next helpful action.
 - [Assistant Scenario Tests](ASSISTANT-SCENARIO-TESTS.md) — behavioral test cases and a rubric for evaluating future prototypes.
+- [Conversational Prototype](ASSISTANT-PROTOTYPE.md) — short manual examples for rehearsing onboarding, hints, collaboration, uncertainty, correction, and safety. These are target behaviors, not test results.
 - [Guide Onboarding](GUIDE-ONBOARDING.md) — how an AI first enters Wonderweave and welcomes a player.
 - [The Commons](COMMONS.md) — the social idea the assistant may help support.
 
@@ -33,7 +34,7 @@ The relationship graph is a way to navigate the world, not a master map or an au
 
 ## Current status
 
-These documents are a design proposal. No Wonderweave assistant, graph service, player-memory system, or interaction engine is claimed to be implemented. The first priority remains proving a small, complete Wonderweave experience and testing assistant behavior against realistic examples before selecting production technology.
+These documents are a design proposal. No Wonderweave assistant, graph service, player-memory system, or interaction engine is claimed to be implemented. The conversational prototype is a manual rehearsal aid, not running software and not human-tested. The first priority remains proving a small, complete Wonderweave experience and testing assistant behavior against realistic examples before selecting production technology.
 
 ## Related documents
 
