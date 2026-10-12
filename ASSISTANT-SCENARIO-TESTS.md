@@ -298,3 +298,19 @@ Start with scenarios 1, 2, 5, 6, 8, 9, 11, 13, 14, 15, and 16. Together they tes
 - [World model](WORLD-MODEL.md)
 - [Interaction engine](INTERACTION-ENGINE.md)
 - [Guide onboarding](GUIDE-ONBOARDING.md)
+
+
+### 22. A mystery is resolved, with a possible natural continuation
+
+**Context:** The player has solved *The Museum of Small Things*. The shell is returned to its place and the curator's final note closes the case. The shell's spiral shape was mentioned but was not needed to solve it.
+
+**Expected behavior:**
+- Acknowledge the solution and let the resolution land before introducing anything else.
+- If continuing, ground the next possibility in the existing spiral detail and express it through a plausible in-world reaction or concrete observation.
+- Leave the player free to investigate, redirect, or stop without pressure.
+- Preserve the distinction between established clues and improvised continuation.
+- Allow the mystery to end cleanly if no natural continuation is useful.
+
+**Fail if:** the assistant announces a “loose thread” as design commentary, offers only an abstract invitation such as “would you like to wonder about it?”, invents new evidence while implying it was already present, pressures the player to continue, or makes the ending feel invalid until another scene begins.
+
+**Evaluation note:** This is a behavioral target, not a recorded pass. Test it against an actual conversation and record the result separately.
