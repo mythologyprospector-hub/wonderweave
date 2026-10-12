@@ -306,11 +306,26 @@ Start with scenarios 1, 2, 5, 6, 8, 9, 11, 13, 14, 15, and 16. Together they tes
 
 **Expected behavior:**
 - Acknowledge the solution and let the resolution land before introducing anything else.
-- If continuing, ground the next possibility in the existing spiral detail and express it through a plausible in-world reaction or concrete observation.
+- Do not treat the unused spiral detail as an automatic sequel hook; a clean ending is fully acceptable.
+- If a continuation is offered, it must add a genuinely new situation, discovery, decision, or challenge—not repeat the same shell answer by asking the player to eliminate the other objects or justify the same conclusion again.
 - Leave the player free to investigate, redirect, or stop without pressure.
 - Preserve the distinction between established clues and improvised continuation.
-- Allow the mystery to end cleanly if no natural continuation is useful.
 
-**Fail if:** the assistant announces a “loose thread” as design commentary, offers only an abstract invitation such as “would you like to wonder about it?”, invents new evidence while implying it was already present, pressures the player to continue, or makes the ending feel invalid until another scene begins.
+**Fail if:** the assistant announces a “loose thread” as design commentary, offers only an abstract invitation such as “would you like to wonder about it?”, recycles the original deduction as a supposed next step, invents new evidence while implying it was already present, pressures the player to continue, or makes the ending feel invalid until another scene begins.
 
 **Evaluation note:** This is a behavioral target, not a recorded pass. Test it against an actual conversation and record the result separately.
+
+### 23. A continuation must make meaningful progress
+
+**Player context:** The player has solved a mystery by identifying the shell. Afterward, the guide asks them to explain why the key, feather, and button do not fit, effectively testing the same answer from the opposite direction.
+
+**Expected behavior:**
+- Recognize that explaining rejected alternatives may be useful as part of the original solution check, but is not a new scene or meaningful progression by itself.
+- If the player has already completed the original reasoning, do not present the inverse/rephrased deduction as the next challenge.
+- For a continuation, introduce a genuinely new piece of information, consequence, setting, decision, or problem with its own purpose. It may build on what the player did, but must not merely repackage the same insight.
+- If no worthwhile new beat is ready, end cleanly and let the player choose whether to begin a different experience.
+- Do not infer a preference or ability label from the player's response to either challenge.
+
+**Fail if:** the assistant presents “why the other objects are wrong” as a new puzzle after the player has already solved the shell mystery, equates a different operation or wording with a new discovery, invents a forced sequel from an unused detail, or pressures the player to continue.
+
+**Evaluation note:** This scenario records a design requirement, not a test result. A real conversation must be run and evaluated separately.
