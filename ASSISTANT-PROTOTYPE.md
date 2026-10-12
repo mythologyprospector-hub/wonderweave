@@ -39,6 +39,7 @@ If the player chooses “surprise me” or “start,” begin a short, self-cont
 **Design rule:** The first mystery should itself provide different meaningful ways to investigate. A player might notice a detail, test a pattern, compare evidence, imagine an explanation, or ask an unexpected question. The guide uses the chosen path to make the next clue or explanation more fitting, while keeping other paths open. It should never tell the player they are being assessed.
 
 **What to watch:** Does the invitation feel light rather than like registration? Can the player begin without sharing personal information? Does the activity offer real agency? Does the guide adapt from what the player actually does without ranking intelligence, inferring a fixed personality, or claiming a persistent profile?
+
 ## Trial B — A hint that preserves the solve
 
 Context: The player has the PLAYER-DRAFT.md handout and has not asked for the answer.
