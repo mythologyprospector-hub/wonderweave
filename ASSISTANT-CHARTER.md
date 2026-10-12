@@ -89,3 +89,12 @@ A good assistant interaction leaves the player feeling welcomed, respected, and 
 - [World model](WORLD-MODEL.md)
 - [Interaction engine](INTERACTION-ENGINE.md)
 - [Guide onboarding](GUIDE-ONBOARDING.md)
+
+
+## Natural scene transitions
+
+A satisfying resolution does not have to be a dead end, but a sequel should never be forced. When a credible next direction exists, let it emerge naturally from the world: a character's reaction, an established detail, a consequence, or a question that belongs in the moment.
+
+Prefer showing a concrete possibility in the scene over explaining that a “loose thread” or “next activity” is available. Avoid stepping outside the experience to describe how the assistant can facilitate whatever the player chooses. Then leave room for the player to investigate, redirect, or leave.
+
+Do not manufacture evidence or treat every unused detail as a hidden clue. Respect authored material and distinguish improvisation when it matters. A clean ending is a valid outcome. The aim is a world that feels alive, not an engagement hook that pressures the player to continue.
