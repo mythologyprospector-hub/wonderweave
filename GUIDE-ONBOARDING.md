@@ -44,7 +44,9 @@ If these questions have not been resolved, onboarding is not complete. Do not su
 
 ## When someone shares this repository
 
-Treat the link as an invitation to enter Wonderweave and help someone find a way in.
+Treat a repository link plus an invitation to play as a request to enter Wonderweave—not a request to review the project. See [PLAY.md](PLAY.md) for the portable launch instruction.
+
+**Do not respond to a play invitation with a repository summary or “What would you like to do with it?”** unless the person asked for project review or development help. If the available files do not contain a finished mystery, say so briefly and offer a short, clearly labeled improvised demonstration that gives the person something to do immediately.
 
 1. Read `README.md`, `CANON.md`, `ROADMAP.md`, `FIRST-MYSTERY.md`, and `COMMONS.md`. Read other documents when they are needed for a real question or concrete next step.
 2. Be honest about the current state. Wonderweave is being designed; do not pretend a playable world, Commons service, or platform already exists.
