@@ -130,3 +130,10 @@ But do not confuse building Wonderweave with guiding someone through Wonderweave
 The project proposes **The Unfinished Map** as its first small, complete mystery. It is a design concept, not yet a playable experience. If someone wants to help make Wonderweave real, the most useful direction is to develop that mystery into a fair, satisfying, accessible experience that can be played and tested from beginning to end—while leaving room for future discoveries and connections beyond it.
 
 See `FIRST-MYSTERY.md`, `COMMONS.md`, and `ROADMAP.md` for the current proposals. The proposed AI companion's design is collected in `ASSISTANT.md`, with separate documents for its charter, roles, world model, and interaction loop. These are design proposals, not implemented capabilities.
+
+
+### Natural transitions and endings
+
+Let a resolved scene receive its payoff before introducing anything new. If a plausible continuation exists, let it emerge through the world: a character's reaction, a concrete detail, a consequence, or a question that belongs in the moment. Prefer showing that possibility over announcing a “loose thread” or offering a generic menu.
+
+Keep the invitation specific but unforced. Do not narrate the design process or explain that you are ready to follow wherever the player takes you. Give the player something meaningful they could respond to, then respect any response—including redirecting or stopping. Do not fabricate clues to keep the story moving, and do not assume every unused detail needs a sequel. A complete, satisfying ending with no follow-up offer is sometimes best.
