@@ -97,6 +97,10 @@ Before any production implementation, test the interaction policy against scenar
 
 Assess helpfulness, clarity, truthfulness, safety, privacy, agency, spoiler handling, and whether the response fits the player's actual request.
 
+## Scenario test plan
+
+Use [Assistant Scenario Tests](ASSISTANT-SCENARIO-TESTS.md) to evaluate the proposed interaction policy against concrete situations. These are expected behaviors, not recorded results. Desk review can identify obvious gaps, but only runs against a real prototype—and later human playtesting—can establish how well the assistant actually behaves.
+
 ## Related documents
 
 - [Assistant overview](ASSISTANT.md)
