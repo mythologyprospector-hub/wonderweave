@@ -561,3 +561,16 @@ Rules:
 
 This is a presentation and operational-safety requirement, not a preference to remove syntax highlighting. **Full-size colorful Markdown code blocks are the required format for copy/paste terminal commands.**
 
+
+
+## Universal Seed update — worktree lifecycle and coordination
+
+The universal Project Seed now makes workspace hygiene and coordination ownership explicit. The canonical reusable procedure is in `WORKTREE_LIFECYCLE.md`.
+
+- Prefer the normal checkout and ordinary branch workflow. A worktree is optional and requires a concrete isolation or parallel-work benefit.
+- At the start of local repository work and before handoff, inspect both Git's registered worktrees and the physical dedicated worktree directory; reconcile them rather than assuming the main checkout is the only one.
+- Give each active worktree a durable task reference, known purpose, current state, preservation assessment, next action, and retirement condition. Use a concise root `WORKTREES.md` only when active worktree purpose/disposition is not already clear from the issue or PR; do not create an empty ledger.
+- Never remove a worktree just because it looks old, detached, or redundant. Inspect unique commits, untracked/ignored files, local state, and preservation needs first. Do not use destructive cleanup shortcuts.
+- The assistant owns discovery, tracking, preservation planning, and cleanup coordination. Do not transfer routine orchestration or ledger maintenance to the owner.
+
+These rules govern workflow, not project architecture. Preserve this repository's own mission, canon, and specialized instructions.
