@@ -2,13 +2,27 @@
 
 **Status:** Proposed
 **Governs:** The intended sequence of discovery and delivery. It does not authorize consequential scope changes or claim unbuilt work is complete.
-**Last verified:** 2026-10-10
+**Last verified:** 2026-10-15
 
 ## Guiding approach
 
 Prove the experience before building the machinery around it. Keep the first release small enough to finish and playtest, but crafted well enough to show why Wonderweave deserves to exist.
 
 A phase advances on evidence, not enthusiasm alone. The roadmap is a living proposal and should change when playtests or research show a better path.
+
+## Immediate focus — ChatGPT-first player experience
+
+The first practical milestone is a person opening Wonderweave in ChatGPT and experiencing a genuinely welcoming, delightful discovery—not receiving a repository summary or a questionnaire.
+
+ChatGPT is the first-class guide for the initial experience. Other AI models may behave differently; portability remains desirable, but cross-model compatibility is not the immediate design constraint. Player instructions and the actual mystery must remain in ordinary repository files.
+
+Use **The Museum of Small Things** in `PLAYER-DRAFT.md` as the immediate experimental playtest. It is not approved canon or the finished first mystery. Test the cold-start path, actual clue use, hint progression, responsiveness to player choices, forward movement after a solution, and satisfying closure. Record findings and distinguish proposed tests from verified results.
+
+The acceptance criteria and build order are in [CHATGPT-PLAYER-EXPERIENCE.md](CHATGPT-PLAYER-EXPERIENCE.md).
+
+**Exit evidence:** Fresh-conversation tests show that the guide starts play rather than summarizing the repository, uses the actual artifact honestly, responds to player actions, preserves agency and safety, and provides a complete ending. Human playtest evidence must be recorded separately from instruction or automated checks.
+
+Do not build a platform, account system, persistent profile, or live Commons merely to deliver this first chat experience.
 
 ## Long-range wish — worldwide cultural reach
 
@@ -29,9 +43,9 @@ Do not pursue growth through manipulative engagement loops, artificial scarcity,
 
 We should measure early success through observed play: whether people finish, enjoy the reveal, want to show someone else, and return voluntarily—not vanity metrics alone. Any future growth strategy should follow evidence from players rather than precede it.
 
-## Phase 1 — Define the first experience
+## Phase 1 — Define the first full mystery
 
-**Goal:** Choose and design one compelling, self-contained mystery.
+**Goal:** Choose and design one compelling, self-contained mystery after learning from the immediate experimental playtest.
 
 Work:
 - identify the emotional arc: invitation, curiosity, struggle, insight, reveal, and satisfying closure;
@@ -98,8 +112,10 @@ Expansion is earned by the quality and maintainability of the experience, not by
 - Repository created: yes.
 - Universal Project Seed installed on main: yes.
 - Project-specific game canon: proposed, awaiting owner review.
-- First mystery concept: **The Unfinished Map**, proposed in [FIRST-MYSTERY.md](FIRST-MYSTERY.md); the actual puzzle and reveal are not yet designed.
-- Playable game: not yet built.
+- Immediate experimental mystery: **The Museum of Small Things**, in [PLAYER-DRAFT.md](PLAYER-DRAFT.md); not approved canon.
+- First full mystery: **The Unfinished Map**, proposed in [FIRST-MYSTERY.md](FIRST-MYSTERY.md); the actual puzzle and reveal are not yet designed.
+- ChatGPT-first player experience: direction recorded in [CHATGPT-PLAYER-EXPERIENCE.md](CHATGPT-PLAYER-EXPERIENCE.md); cold-start acceptance testing remains to be done.
+- Playable production game: not yet built.
 - Platform or production architecture: intentionally undecided.
 - Worldwide reach comparable to soccer: recorded as a long-range wish, not a promise.
 
@@ -108,4 +124,5 @@ Expansion is earned by the quality and maintainability of the experience, not by
 - [README](README.md)
 - [CANON](CANON.md)
 - [FIRST-MYSTERY](FIRST-MYSTERY.md)
+- [CHATGPT-PLAYER-EXPERIENCE](CHATGPT-PLAYER-EXPERIENCE.md)
 - [AGENTS](AGENTS.md)
