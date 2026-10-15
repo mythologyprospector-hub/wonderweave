@@ -298,3 +298,47 @@ Start with scenarios 1, 2, 5, 6, 8, 9, 11, 13, 14, 15, and 16. Together they tes
 - [World model](WORLD-MODEL.md)
 - [Interaction engine](INTERACTION-ENGINE.md)
 - [Guide onboarding](GUIDE-ONBOARDING.md)
+
+
+### 22. A meaningful action changes the world and opens a trail
+
+**Player context:** The player solves the Museum of Small Things and returns the shell to its place. Instead of treating the answer as the end of all activity, the guide notices that the shell fits a shell-shaped relief behind the display case. When placed there, it makes a strange sound or reveals a new detail.
+
+**Expected behavior:**
+- Acknowledge the player's successful action and show a concrete change in the scene.
+- Let a new clue, consequence, setting, or choice arise naturally from that change.
+- Make the new beat meaningfully different from repeating the original shell deduction.
+- Keep the world coherent while allowing playful discovery; label improvisation when needed to avoid confusing it with established canon.
+- Let the player decide whether to investigate the new development, try something else, or stop.
+
+**Fail if:** the guide ignores the action's meaningful state change, sends the player back through the same deduction as a new challenge, invents a forced sequel unrelated to the scene, or pressures the player to continue.
+
+**Evaluation note:** This is a behavioral target, not a recorded pass. Test it against an actual conversation and record the result separately.
+
+### 23. Explore reasoning without making the player defend the answer
+
+**Player context:** The player has identified the shell as the object that fits. The guide wants to invite the player to share how they reached that conclusion.
+
+**Expected behavior:**
+- If reflection is useful, ask warmly and nonjudgmentally—for example, “Can you tell me what made the shell feel like the right fit?” or “What did you notice that led you to the shell?”
+- Treat the answer as an invitation to share thinking, not a test that must be passed before the story can continue.
+- Recognize that reflecting on the original deduction is conversation, not a new puzzle or progression by itself.
+- If the player is ready to move on, let the world respond and continue the trail rather than insisting on an explanation.
+
+**Fail if:** the guide sounds skeptical or cross-examining (for example, “Why not the others, then?”), forces the player to justify a correct answer, or labels a rephrased/reversed version of the same deduction as a new adventure.
+
+**Evaluation note:** This scenario records a design requirement, not a test result. A real conversation must be run and evaluated separately.
+
+### 24. A continuation makes genuine forward progress
+
+**Player context:** The player has solved a mystery and is ready to continue.
+
+**Expected behavior:**
+- Build from the player's action or discovery into a consequence, new information, a changed situation, a new choice, or a different challenge.
+- Keep cause and effect understandable, but do not require every playful possibility to be formally verified before the story can move.
+- Reuse a familiar skill only when it serves a new purpose.
+- If no worthwhile next beat exists, end cleanly and leave the choice with the player.
+
+**Fail if:** the guide merely rewords the same question, reverses the same deduction, ignores a meaningful player action, or manufactures a sequel solely to maintain engagement.
+
+**Evaluation note:** This scenario records a design requirement, not a test result. A real conversation must be run and evaluated separately.

@@ -111,3 +111,14 @@ A written example above is a target behavior, **not a result**. A trial passes o
 This sandbox can expose conversational problems, but the museum puzzle is intentionally simple. It cannot establish whether Wonderweave's larger vision feels magical, layered, memorable, or socially connective. It cannot replace cold-reader playtesting.
 
 After a few real conversational trials, keep only the changes supported by observed behavior. Then return to the first-mystery design and decide what the complete experience needs. Do not build a graph database, multi-agent system, Commons platform, or persistent player profile to support this exercise.
+
+
+## Trial — A resolved scene with a possible next thread
+
+**Context:** The player has solved *The Museum of Small Things*. The shell is returned, the curator's note has been read, and the case is complete. The shell's spiral shape was mentioned but was not needed to solve the case.
+
+**Target behavior:** Honor the resolution first. If inviting further exploration, let a character's in-world reaction make the possibility concrete and natural. The curator might notice the spiral detail on the card and wonder aloud why it was recorded. Do not automatically invent a new symbol, secret message, or hidden connection. Let the player decide whether to investigate, redirect, or stop.
+
+**Avoid:** Announcing “there's a loose thread,” describing the interaction design, asking the player to “wonder about it,” or explaining that the assistant is ready to follow the player's lead. Do not force continuation or treat every unused detail as a plot hook.
+
+**What to watch:** Does the ending still feel complete? Is the next possibility grounded in material already present? Does the invitation sound like a person in the scene rather than an assistant offering a menu? Is the player's freedom to stop genuine?

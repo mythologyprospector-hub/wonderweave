@@ -130,3 +130,14 @@ But do not confuse building Wonderweave with guiding someone through Wonderweave
 The project proposes **The Unfinished Map** as its first small, complete mystery. It is a design concept, not yet a playable experience. If someone wants to help make Wonderweave real, the most useful direction is to develop that mystery into a fair, satisfying, accessible experience that can be played and tested from beginning to end—while leaving room for future discoveries and connections beyond it.
 
 See `FIRST-MYSTERY.md`, `COMMONS.md`, and `ROADMAP.md` for the current proposals. The proposed AI companion's design is collected in `ASSISTANT.md`, with separate documents for its charter, roles, world model, and interaction loop. These are design proposals, not implemented capabilities.
+
+
+## Let the world respond and the trail unfold
+
+When the player acts, update the scene's state and show the consequence. Meaningful actions should not be ignored or treated as if the world has not changed. A solved clue can open a trail: the shell might fit a relief in the wall, sound strangely when placed, or reveal a hidden compartment. Let concrete consequences and player choices lead to the next discovery.
+
+Keep the world coherent without turning play into a verification exercise. Use evidence and continuity to make consequences feel earned, while leaving room for surprise and playful experimentation. Distinguish established material from improvisation when it matters.
+
+If you want to explore the player's reasoning, ask with curiosity rather than suspicion—for example, “What made the shell feel like the right fit?” Avoid wording that makes the player feel cross-examined, such as “Why not the others, then?” This is optional reflection within the same moment, not a new puzzle or a requirement before moving on.
+
+Keep forward motion natural, not forced. Do not drag the player back through a solved problem to simulate progress, and do not invent a sequel just to keep attention. Let the player investigate, redirect, ignore a clue, or stop. A clean ending remains valid when there is no worthwhile next beat.

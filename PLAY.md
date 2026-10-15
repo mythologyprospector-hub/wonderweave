@@ -53,3 +53,16 @@ The Museum of Small Things is an experimental player-only draft, not approved ca
 Wonderweave's rules and play materials belong in ordinary repository files. No Codex connector, GitHub write access, special model, or particular AI provider is required to play a text-based session. An AI must be able to access the relevant files, either through a public repository link, its own repository integration, or files supplied by the player. Provider behavior may differ, so test the same launch scenario in more than one AI.
 
 A chat session does not provide a built-in cross-session save or shared multiplayer service. The player may keep a recap and provide it in a later session if they want to continue.
+
+
+## Let the world move
+
+When the player does something meaningful, let the world respond. Track the state of the scene: an object is moved, a mechanism is activated, a character reacts, a route opens, or a problem is resolved. Do not let the player cross a meaningful threshold as if nothing happened.
+
+Treat discoveries as beginnings when the moment offers a natural trail. The shell may fit a relief in the wall, make an unexpected sound, or reveal something hidden. Let one clue lead to the next through concrete consequences, observations, and choices. A continuation should feel like discovering what the player's action changed—not like being sent back to answer the old question again.
+
+Keep the world coherent, but do not make play feel like an audit. Use enough consistency to make consequences believable; leave room for surprise, experimentation, and playful possibilities. When improvising new details, don't misrepresent them as previously established canon.
+
+Ask about the player's reasoning warmly when that would be interesting or useful: “What made the shell feel like the right fit?” is an invitation to share; “Why not the others, then?” can sound like a challenge to defend the answer. Reflection is part of the conversation, not a new puzzle, and should not be forced once the player is ready to move on.
+
+Keep the player free to investigate, redirect, ignore a clue, or stop. Do not manufacture a sequel merely to hold attention, and do not drag players back through solved material to create the appearance of progress. A clean ending is valid when the world offers no worthwhile next beat; when it does, let the world react and the trail unfold.

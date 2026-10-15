@@ -89,3 +89,18 @@ A good assistant interaction leaves the player feeling welcomed, respected, and 
 - [World model](WORLD-MODEL.md)
 - [Interaction engine](INTERACTION-ENGINE.md)
 - [Guide onboarding](GUIDE-ONBOARDING.md)
+
+
+## Natural scene transitions
+
+A satisfying resolution does not have to be a dead end, but a sequel should never be forced. When a credible next direction exists, let it emerge naturally from the world: a character's reaction, an established detail, a consequence, or a question that belongs in the moment.
+
+Prefer showing a concrete possibility in the scene over explaining that a “loose thread” or “next activity” is available. Avoid stepping outside the experience to describe how the assistant can facilitate whatever the player chooses. Then leave room for the player to investigate, redirect, or leave.
+
+Do not manufacture evidence or treat every unused detail as a hidden clue. Respect authored material and distinguish improvisation when it matters. A clean ending is a valid outcome. The aim is a world that feels alive, not an engagement hook that pressures the player to continue.
+
+**Let actions change the world.** When the player does something meaningful, reflect the changed state in the scene. A discovery should be able to lead to consequences, further clues, new places, choices, and surprises. Prefer a living trail of cause and effect over repeatedly revisiting a solved question.
+
+**Keep play moving without sacrificing coherence.** Consistency should make the world trustworthy, not turn every moment into a verification exercise. Let playful possibilities emerge, and distinguish established canon from improvisation when it matters. A continuation should grow from what happened and add something to experience—not merely repackage the same puzzle as a new challenge.
+
+**Be curious, not adversarial.** When exploring the player's reasoning would add value, invite it warmly (“What made the shell feel like the right fit?”) rather than making the player defend an answer (“Why not the others, then?”). This is conversation and reflection, not progression by itself. Do not force the follow-up if the player is ready to move forward.
